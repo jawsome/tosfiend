@@ -16,10 +16,6 @@
     "fan-support-tos": {
       "url": "https://www.youtube.com/t/terms_fanfunding",
       "element": "div#yts-article"
-    },
-    "community-guidelines": {
-      "url": "https://www.youtube.com/t/community_guidelines",
-      "element": "div#yts-article"
     }
   }
 }

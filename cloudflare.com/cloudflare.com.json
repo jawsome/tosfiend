@@ -1,0 +1,9 @@
+{
+  "name": "cloudflare.com",
+  "sources": {
+    "tos": {
+      "url" : "https://www.cloudflare.com/terms",
+      "element": "div.article"
+    }
+  }
+}

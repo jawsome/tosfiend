@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+    <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+    <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+    <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+    <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+	<!-- Begin Monetate ExpressTag Sync v8. Place at start of document head. DO NOT ALTER. -->
+	<script type="text/javascript">
+	var monetateT = new Date().getTime();
+	(function() {
+		var p = document.location.protocol;
+		if (p == "http:" || p == "https:") {
+			var m = document.createElement("script"); m.type = "text/javascript"; m.src = (p == "https:" ? "https://s" : "http://") + "e.monetate.net/js/2/a-685a7abb/p/hostgator.com/entry.js";
+			var e = document.createElement("div"); e.appendChild(m); document.write(e.innerHTML);
+		}
+	})();
+	</script>
+	<!-- End Monetate tag. -->
+
+    <!-- Begin Criteo Tag -->
+    <script type="text/javascript" src="//static.criteo.net/js/ld/ld.js" async="true"></script> 
+    <script type="text/javascript"> 
+        window.criteo_q = window.criteo_q || []; 
+        window.criteo_q.push( 
+            { event: "setAccount", account: 13887 },
+            { event: "setSiteType", type: "d" }, 
+            { event: "viewHome" } 
+        ); 
+    </script>
+    <!-- End Criteo Tag -->
+
+	
+	<meta name="description" content="Click here to view HostGator's email policy for sending email via our dedicated web hosting servers.">
+
+	<meta name="robots" content="noodp, noydir"/>
+	
+	<link rel="canonical" href="http://www.hostgator.com/dedicated-mailpolicy" />
+
+
+    <meta name="keywords" content="web hosting, hosting, webhosting, reseller hosting, vps hosting, dedicated servers, dedicated hosting, website hosting, dedicated server, web host, reseller, cpanel">
+    <meta name="viewport" content="width=device-width">
+
+    <meta name="google-site-verification" content="K0JBJlN30rR62F3ZoivTX1aeXoh11VcipVlUGJWFDs4" />
+
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="//cdn.hostgator.com">
+    <link rel="dns-prefetch" href="//ajax.googleapis.com">
+
+    <title>Dedicated eMail Policy - HostGator</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=PT+Sans:400,700"> 
+
+    
+    <link rel="stylesheet" href="/css/base.css">
+    
+    <link rel="stylesheet" href="/css/promotions/summer/base.css">
+
+
+    
+	<link rel="stylesheet" href="/css/pages/legal.css">
+
+    <!-- End of CSS -->
+
+    <!-- Header JavaScript -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+    <script src="/js/libs/vendor/modernizr-2.6.2.min.js"></script>
+
+   
+    <!-- End of Header JavaScript -->
+
+</head>
+<body>
+<div id="wrapper">
+    <div id="container">
+        
+        <header>
+            <div class="head">
+			
+				<a href="https://gbclient.hostgator.com/login" title="HostGator Billing/Support System">HOSTGATOR BILLING LOGIN</a>
+			
+			</div>
+            <div id="header">
+				
+                <div class="support">
+                    <span id="live-chat">
+                        <a class="js-listen-newWin live-chat-open" href="https://chat.hostgator.com" target="_blank">
+                            <img src="/images/en-US/chatimage.gif" width="80px" height="76px" alt='live-chat'>
+                        </a>
+                    </span>
+                    <div class="phone">
+                        <p>Toll Free: <span class="orangephone" id="mphone">1.866.96.GATOR</span></p>
+                        <p class="localnum">Local: <span class="orangephone">1.713.574.5287</span></p>
+                        <span class="nowhosting">Now hosting over 9,000,000 domains!</span>
+                    </div>
+                </div>
+				
+                <div class="logo" title="HostGator.com - Our Web Hosting is sizzling in the summer time!" onClick="window.open('/','_parent');"></div>
+            </div>
+        </header>
+        
+
+        <div id="shadow">
+            <div id="main" role="main">
+                <div id="navigation">
+				
+                    <ul>
+                        <li><a href="/shared">Web Hosting</a></li>
+                        <li><a href="/resellers">Reseller Hosting</a></li>
+                        <li><a href="/vps-hosting/">VPS Hosting</a></li>
+                        <li><a href="/dedicated">Dedicated Servers</a></li>
+                        <li><a href="http://register.hostgator.com">Domains</a></li>
+                        <li><a href="/support">Support</a></li>
+                        <li><a href="/affiliates">Affiliates</a></li>
+                    </ul>
+				
+                </div>
+                <div id="content">
+                    
+<div class="mainarea">
+	<div class="center_column_theme2">
+		<h2 style="font-size:32px;color:#336293;margin-left:5px;">Dedicated Mail Policy</h2>
+		<div class="header-divider"></div>
+		<p>1. The list must be a Double Opt-In list. This means a user has subscribed for a newsletter or other email marketing messages by explicitly requesting it and confirming the email address to be their own. Confirmation is usually done by responding to a notification/confirmation email sent to the email address the end user specified. The double opt-in method eliminates the chance of abuse where somebody submits someone else&#39;s email address without their knowledge and against their will. You will not be permitted to mail any mailing list that you were given or purchased. In doing so, this will also be considered spamming and may result in termination of the offending account.</p>
+		<p>2. Email Scripts must be able to handle and document all information from a double opt-in list. This includes recording the sign-up IP address and date/time, double opt-in verification IP address and date/time, processing opt-outs (via web or email), and list removal on bounce backs. All opt-outs or bounce back removals must be handled in a timely manner, and outbound mail must be throttled on shared packages to a maximum of five hundred (500) emails per hour. If your account is found to be using a script that does not meet these requirements, HostGator reserves the right to suspend, terminate, or deactivate your script or account.</p>
+		<p>3. Any unsolicited e-mail being sent will result in suspension or termination of the offending account. We take a zero tolerance stance against sending of unsolicited e-mail and other forms of spam.</p>
+		<p>4. Any mailing list MUST comply with all guidelines set forth by the United States government. These can be found at:
+		<br /><a href="http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm">http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm</a> .</p>
+	</div>
+</div>
+<div class="floatingsidebar">
+	<div class="subnav_subheader">Company Navigation</div>
+	<div id="subnav">
+	<ul>
+		<li><a href="/company" title="About Hostgator.com">About the Company</a></li>
+		<li><a href="/management-team" title="HostGator Management Team">Management Team</a></li>
+		<li><a href="/network" title="Network / Datacenter">Network / Datacenter</a></li>
+		<li><a href="/reviews" title="Awards and Reviews">Awards &amp; Reviews</a></li>
+		<li><a href="/press" title="Press and Media">Press and Media</a></li>
+		<li><a href="/jobs" title="Employment Opportunities">Employment Opportunities</a></li>
+		<li><a href="/contact" title="Contact Us">Contact Us</a></li>
+	</ul>
+</div>
+	<div class="sidetitle">Information</div>
+	<img alt="" height="1" src="/images/spacer.gif" style="display: block;" width="1" />
+	<div class="sidecontent tutorials">
+		<div>
+			<a href="contact"><img alt="support" src="/images/support.jpg" style="display: block;" /></a>
+		</div>
+		<div>
+			<a href="javascript:void(0);" onclick="window.open(&#39;http://chat.hostgator.com/liveperson/index&#39;, (Math.floor(Math.random()*100000)), &#39;toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=375,left = 310,top = 275&#39;);">
+				<img alt="" src="/images/talk.gif" style="display: block;" />
+			</a>
+		</div>
+		<div style="background-image:url(&#39;/images/rbg2.gif&#39;); background-repeat: repeat-y; text-align:center; padding:3px 0 8px 0;">
+			<a href="javascript:void(0);" onclick="window.open(&#39;http://chat.hostgator.com/liveperson/index&#39;, (Math.floor(Math.random()*100000)), &#39;toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=375,left = 310,top = 275&#39;);">
+				<img alt="" src="/images/banner1.jpg" />
+			</a>
+		</div>
+		<div>
+			<img alt="" src="/images/rbg3.gif" style="display: block;" />
+		</div>
+		<div style="padding-top: 10px;">
+			<p style="text-align:center;">
+			<a href="https://www.mcafeesecure.com/RatingVerify?ref=www.hostgator.com" target="_blank">
+				<img alt="McAfee Secure sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" border="0" height="37" oncontextmenu="alert(&#39;Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.&#39;); return false;" src="//images.scanalert.com/meter/www.hostgator.com/55.gif" width="65" />
+			</a>
+		</div>
+	</div>
+</div>
+<div class="clear"></div>
+
+                </div>
+            </div>
+        </div>
+
+        <div class="shadowbottom"></div>
+       	 
+        <footer id="newfooter">
+            <ul id="c1">
+                <li class="foottitle"><span>Our Services</span></li>
+
+                <li><a href="/shared" title="Web Hosting">Web Hosting</a></li>
+                <li><a href="/resellers" title="Reseller Hosting">Reseller Hosting</a></li>
+                <li><a href="/vps-hosting" title="VPS Hosting">VPS Hosting</a></li>
+                <li><a href="/dedicated" title="Dedicated Servers">Dedicated Servers</a></li>
+                <li><a href="/domains" title="Domain Names">Domain Names</a></li>
+                <li><a href="/apps" title="Application Hosting">Application Hosting</a></li>
+                <li><a href="/windows-hosting" title="Windows Hosting">Windows Hosting</a></li>
+            </ul>
+            <ul id="c2">
+                <li class="foottitle"><span>Help and Support</span></li>
+                <li><a href="http://support.hostgator.com" title="Support Portal">Support Portal</a></li>
+                <li><a href="/tutorials" title="Video Tutorials">Video Tutorials</a></li>
+                <li><a href="http://forums.hostgator.com" title="Forums">Forums</a></li>
+                <li><a href="http://tickets.hostgator.com" title="Ticket System">Ticket System</a></li>
+                <li><a href="http://gbclient.hostgator.com" title="Billing System">Billing System</a></li>
+                <li>
+                <a class="live-chat-open" href="https://chat.hostgator.com" target="_blank" title="Live Chat">Live Chat</a></li>
+                <li><a href="https://www.registryrocket.com/default.aspx?ec=5103184A-8C21-4EFA-ACA0-0" title="Registry Rocket">Registry Rocket</a></li>
+            </ul>
+            <ul id="c3">
+                <li class="foottitle"><span>Company</span></li>
+                <li><a href="/company" title="About the Company">About the Company</a></li>
+                <li><a href="/management-team" title="Management Team">Management Team</a></li>
+                <li><a href="/network" title="Network Datacenter">Network Datacenter</a></li>
+                <li><a href="/reviews" title="Awards &amp; Reviews">Awards &amp; Reviews</a></li>
+                <li><a href="/press" title="Press &amp; Media">Press &amp; Media</a></li>
+            </ul>
+            <ul id="notitleul">    
+                <li class="foottitle">&nbsp;</li>
+                <li><a href="http://blog.hostgator.com" title="Company Blog">Company Blog</a></li>
+                <li><a href="/contact" title="Contact Us">Contact Us</a></li>
+                <li><a href="/affiliates" title="Affiliates">Affiliates</a></li>
+                <li><a href="/jobs" title="Careers">Careers</a></li>
+            </ul>
+
+            <ul id="c5">
+                <li class="foottitle"><span>Legal</span></li>
+                <li><a href="/tos" title="Terms of Service">Terms of Service</a></li>
+                <li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                <li><a href="/copyright" title="Copyright">Copyright</a></li>
+                <li><a href="/subpoenas" title="Subpoenas">Subpoenas</a></li>
+            </ul>
+
+            <div id="copyright">
+                <ul>
+                    <li>
+                        Copyright &copy; 2002-2014
+                        <a href="/" title="HostGator.com Web Hosting">HostGator.com Web Hosting</a> &#124; 
+                        <a href="/sitemap" title="Sitemap">Sitemap</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="social-links">
+                <strong>Follow us:</strong>
+                <ul>
+                    <li>
+                        <a href="http://www.facebook.com/HostGator" target="_blank">
+                            <img src="/images/social_facebook-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/hostgator" target="_blank">
+                            <img src="/images/social_twitter-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+hostgator" target="_blank">
+                            <img src="/images/social_googleplus-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://pinterest.com/hostgator/" target="_blank">
+                            <img src="/images/social_pintrest-01.png">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+		
+
+    </div> <!--! end of #container -->
+
+	<div id="alertBar" class="alertBar" style='display:none'>
+		<div id="menu-text">
+			<span class="link-text-left">This site uses cookies to enhance your experience. By continuing to the site you accept their use. Click here to change your preferences or to find out more about cookies.</span>
+			<script>
+			$.getScript("https://consent.truste.com/notice?domain=hostgator.com&c=menu-text", function() {
+				setTimeout(function(){
+					if (window.truste !== undefined) {
+						$("#alertBar").show();
+					}
+				}, 100);
+			});
+			</script>
+		</div>
+	</div>
+
+</div> <!--! end of #wrapper -->
+
+
+
+<!-- Analytics and Tracking -->
+
+
+    <img alt="hostgator tracking" src="https://tracking.hostgator.com">
+
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/78361116.js"></script>
+
+    <!-- Google Code for Main Remarketing Tag -->
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+    /* <![CDATA[ /
+    var google_conversion_id = 1071979603;
+    var google_conversion_label = "a-tsCNOfrgMQ07iU_wM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    / ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071979603/?value=0&label=a-tsCNOfrgMQ07iU_wM&guid=ON&script=0"/>
+    </div>
+    </noscript>
+
+    <!-- Google Ad Services -->
+    <img alt="googleadservices" height="1" width="1" class="googleadservices" src="//www.googleadservices.com/pagead/conversion/1071979603/?random=1330109030369&amp;cv=7&amp;fst=1330109030369&amp;num=1&amp;fmt=3&amp;value=0&amp;label=8GJbCMXUyAEQ07iU_wM&amp;bg=666666&amp;hl=en&amp;guid=ON&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1058&amp;u_aw=1916&amp;u_cd=24&amp;u_his=2&amp;u_tz=-360&amp;u_java=true&amp;u_nplug=8&amp;u_nmime=98&amp;url=/dedicated-mailpolicy">
+
+    <!-- Yield Manager -->
+    <img alt="yieldmanager" src="https://ad.yieldmanager.com/pixel?id=775618&amp;t=2" width="1" height="1">
+
+    <!-- Google Analytics -->
+    
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-5239867-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+    <!-- Adroll -->
+    <script type="text/javascript">
+        adroll_adv_id = "MEKQAGGUPBDLFHTNFUIKVT";
+        adroll_pix_id = "UPSKM3V4RFA3PCYATQ3ZEH";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function () {
+                __adroll_loaded = true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if (oldonload) {
+                    oldonload()
+                }
+            };
+        }());
+    </script>
+    
+	<!-- Trafficvance -->
+    <script type="text/javascript" src="https://tracking.trafficvance.com/?id=1G341EG6D97G9540957C&fetch=0&value=0">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt=""
+                 src="https://tracking.trafficvance.com/?id=1G341EG6D97G9540957C&fetch=1&value=0"/>
+        </div>
+    </noscript>
+
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        function p2l(pathname, query, hash) {
+            pathname = pathname.replace(/\//gi, "__")
+            if (pathname === "__") {
+                pathname = "homepage";
+            }
+            pathname = pathname.replace(/\./gi, "_");
+            query = query.replace(/\?/gi, '-');
+            params = query.split('&');
+            args = []
+            for (arg = 0; arg < params.length; arg++) {
+                args.push(params[arg].split('=')[0]);
+            }
+            pathname += args.join('-');
+            pathname += hash.replace(/#/gi, "-");
+            return pathname;
+        }
+        ;
+
+        _qevents.push({
+            qacct: "p-82IVqBDrB-qUY",
+            labels: "_fp.event." + p2l(document.location.pathname,
+                    document.location.search, document.location.hash)
+        });
+    </script>
+
+    <noscript>
+        <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-82IVqBDrB-qUY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+        </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
+	<!--- Twitter Tracking -->
+	<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		twttr.conversion.trackPid('l4ez3');
+	</script>
+	<noscript>
+		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ez3&p_id=Twitter" />
+		<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4ez3&p_id=Twitter" />
+	</noscript>
+	<!-- End Twitter Tracking -->
+	
+	<!-- Facebook Retargeting Pixel -->
+	<script>
+		(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded)
+				{ var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+			_fbq.push(['addPixelId', '393095817498804']);
+			})();
+			window._fbq = window._fbq || [];
+			window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=393095817498804&ev=NoScript" /></noscript>
+	<!-- End Facebook Retargeting Pixel -->
+
+<!-- End of Analytics and Tracking -->
+
+<!-- JavaScript -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js/libs/vendor/jquery-1.9.1.js"><\/script>')</script>
+
+
+
+<script src="/js/libs/common.js"></script>
+
+<script>
+    Hostgator.coupon     = "SNAPPY";
+    Hostgator.couponRate = 0.8;
+    Hostgator.domainRate = 12.95;
+    Hostgator.baseurl    = "/";
+    Hostgator.cgiurl     = "http://www.hostgator.com/cgi-bin/";
+    Hostgator.sslurl     = "https://secure.hostgator.com/";
+    Hostgator.signup     = "https://signup.hostgator.com/";
+    Hostgator.promo         = true;
+    Hostgator.promoTimeLeft = 3544421;
+</script>
+
+
+
+
+<!-- End of JavaScript -->
+
+</body>
+</html>
+tle="Company Blog">Company Blog</a></li>
+                <li><a href="/contact" title="Contact Us">Contact Us</a></li>
+                <li><a href="/affiliates" title="Affiliates">Affiliates</a></li>
+                <li><a href="/jobs" title="Careers">Careers</a></li>
+            </ul>
+
+            <ul id="c5">
+                <li class="foottitle"><span>Legal</span></li>
+                <li><a href="/tos" title="Terms of Service">Terms of Service</a></li>
+                <li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                <li><a href="/copyright" title="Copyright">Copyright</a></li>
+                <li><a href="/subpoenas" title="Subpoenas">Subpoenas</a></li>
+            </ul>
+
+            <div id="copyright">
+                <ul>
+                    <li>
+                        Copyright &copy; 2002-2014
+                        <a href="/" title="HostGator.com Web Hosting">HostGator.com Web Hosting</a> &#124; 
+                        <a href="/sitemap" title="Sitemap">Sitemap</a>
+                    </li>
+                </ul>
+            </div>
+
+            <div id="social-links">
+                <strong>Follow us:</strong>
+                <ul>
+                    <li>
+                        <a href="http://www.facebook.com/HostGator" target="_blank">
+                            <img src="/images/social_facebook-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://twitter.com/hostgator" target="_blank">
+                            <img src="/images/social_twitter-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://plus.google.com/+hostgator" target="_blank">
+                            <img src="/images/social_googleplus-01.png">
+                        </a>
+                    </li>
+                    <li>
+                        <a href="http://pinterest.com/hostgator/" target="_blank">
+                            <img src="/images/social_pintrest-01.png">
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </footer>
+		
+
+    </div> <!--! end of #container -->
+
+	<div id="alertBar" class="alertBar" style='display:none'>
+		<div id="menu-text">
+			<span class="link-text-left">This site uses cookies to enhance your experience. By continuing to the site you accept their use. Click here to change your preferences or to find out more about cookies.</span>
+			<script>
+			$.getScript("https://consent.truste.com/notice?domain=hostgator.com&c=menu-text", function() {
+				setTimeout(function(){
+					if (window.truste !== undefined) {
+						$("#alertBar").show();
+					}
+				}, 100);
+			});
+			</script>
+		</div>
+	</div>
+
+</div> <!--! end of #wrapper -->
+
+
+
+<!-- Analytics and Tracking -->
+
+
+    <img alt="hostgator tracking" src="https://tracking.hostgator.com">
+
+    <!-- Optimizely -->
+    <script src="//cdn.optimizely.com/js/78361116.js"></script>
+
+    <!-- Google Code for Main Remarketing Tag -->
+    <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+    <script type="text/javascript">
+    /* <![CDATA[ /
+    var google_conversion_id = 1071979603;
+    var google_conversion_label = "a-tsCNOfrgMQ07iU_wM";
+    var google_custom_params = window.google_tag_params;
+    var google_remarketing_only = true;
+    / ]]> */
+    </script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071979603/?value=0&label=a-tsCNOfrgMQ07iU_wM&guid=ON&script=0"/>
+    </div>
+    </noscript>
+
+    <!-- Google Ad Services -->
+    <img alt="googleadservices" height="1" width="1" class="googleadservices" src="//www.googleadservices.com/pagead/conversion/1071979603/?random=1330109030369&amp;cv=7&amp;fst=1330109030369&amp;num=1&amp;fmt=3&amp;value=0&amp;label=8GJbCMXUyAEQ07iU_wM&amp;bg=666666&amp;hl=en&amp;guid=ON&amp;u_h=1080&amp;u_w=1920&amp;u_ah=1058&amp;u_aw=1916&amp;u_cd=24&amp;u_his=2&amp;u_tz=-360&amp;u_java=true&amp;u_nplug=8&amp;u_nmime=98&amp;url=/tos/acceptable-use-policy">
+
+    <!-- Yield Manager -->
+    <img alt="yieldmanager" src="https://ad.yieldmanager.com/pixel?id=775618&amp;t=2" width="1" height="1">
+
+    <!-- Google Analytics -->
+    
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-5239867-1']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+    <!-- Adroll -->
+    <script type="text/javascript">
+        adroll_adv_id = "MEKQAGGUPBDLFHTNFUIKVT";
+        adroll_pix_id = "UPSKM3V4RFA3PCYATQ3ZEH";
+        (function () {
+            var oldonload = window.onload;
+            window.onload = function () {
+                __adroll_loaded = true;
+                var scr = document.createElement("script");
+                var host = (("https:" == document.location.protocol) ? "https://s.adroll.com" : "http://a.adroll.com");
+                scr.setAttribute('async', 'true');
+                scr.type = "text/javascript";
+                scr.src = host + "/j/roundtrip.js";
+                ((document.getElementsByTagName('head') || [null])[0] ||
+                        document.getElementsByTagName('script')[0].parentNode).appendChild(scr);
+                if (oldonload) {
+                    oldonload()
+                }
+            };
+        }());
+    </script>
+    
+	<!-- Trafficvance -->
+    <script type="text/javascript" src="https://tracking.trafficvance.com/?id=1G341EG6D97G9540957C&fetch=0&value=0">
+    </script>
+    <noscript>
+        <div style="display: inline;">
+            <img height="1" width="1" style="border-style: none;" alt=""
+                 src="https://tracking.trafficvance.com/?id=1G341EG6D97G9540957C&fetch=1&value=0"/>
+        </div>
+    </noscript>
+
+
+    <!-- Quantcast Tag -->
+    <script type="text/javascript">
+        var _qevents = _qevents || [];
+
+        (function () {
+            var elem = document.createElement('script');
+            elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+            elem.async = true;
+            elem.type = "text/javascript";
+            var scpt = document.getElementsByTagName('script')[0];
+            scpt.parentNode.insertBefore(elem, scpt);
+        })();
+
+        function p2l(pathname, query, hash) {
+            pathname = pathname.replace(/\//gi, "__")
+            if (pathname === "__") {
+                pathname = "homepage";
+            }
+            pathname = pathname.replace(/\./gi, "_");
+            query = query.replace(/\?/gi, '-');
+            params = query.split('&');
+            args = []
+            for (arg = 0; arg < params.length; arg++) {
+                args.push(params[arg].split('=')[0]);
+            }
+            pathname += args.join('-');
+            pathname += hash.replace(/#/gi, "-");
+            return pathname;
+        }
+        ;
+
+        _qevents.push({
+            qacct: "p-82IVqBDrB-qUY",
+            labels: "_fp.event." + p2l(document.location.pathname,
+                    document.location.search, document.location.hash)
+        });
+    </script>
+
+    <noscript>
+        <div style="display:none;">
+            <img src="//pixel.quantserve.com/pixel/p-82IVqBDrB-qUY.gif" border="0" height="1" width="1" alt="Quantcast"/>
+        </div>
+    </noscript>
+    <!-- End Quantcast tag -->
+
+	<!--- Twitter Tracking -->
+	<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		twttr.conversion.trackPid('l4ez3');
+	</script>
+	<noscript>
+		<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=l4ez3&p_id=Twitter" />
+		<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=l4ez3&p_id=Twitter" />
+	</noscript>
+	<!-- End Twitter Tracking -->
+	
+	<!-- Facebook Retargeting Pixel -->
+	<script>
+		(function() {
+			var _fbq = window._fbq || (window._fbq = []);
+			if (!_fbq.loaded)
+				{ var fbds = document.createElement('script'); fbds.async = true; fbds.src = '//connect.facebook.net/en_US/fbds.js'; var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(fbds, s); _fbq.loaded = true; }
+			_fbq.push(['addPixelId', '393095817498804']);
+			})();
+			window._fbq = window._fbq || [];
+			window._fbq.push(['track', 'PixelInitialized', {}]);
+	</script>
+	<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=393095817498804&ev=NoScript" /></noscript>
+	<!-- End Facebook Retargeting Pixel -->
+
+<!-- End of Analytics and Tracking -->
+
+<!-- JavaScript -->
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.js"></script>
+	<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
+	<script>window.jQuery || document.write('<script src="/js/libs/vendor/jquery-1.9.1.js"><\/script>')</script>
+
+
+
+<script src="/js/libs/common.js"></script>
+
+<script>
+    Hostgator.coupon     = "SNAPPY";
+    Hostgator.couponRate = 0.8;
+    Hostgator.domainRate = 12.95;
+    Hostgator.baseurl    = "/";
+    Hostgator.cgiurl     = "http://www.hostgator.com/cgi-bin/";
+    Hostgator.sslurl     = "https://secure.hostgator.com/";
+    Hostgator.signup     = "https://signup.hostgator.com/";
+    Hostgator.promo         = true;
+    Hostgator.promoTimeLeft = 3544421;
+</script>
+
+
+
+
+<!-- End of JavaScript -->
+
+</body>
+</html>

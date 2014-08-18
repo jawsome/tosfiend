@@ -2,7 +2,14 @@
 		<div class="center_column_theme2">
 			<h1>Terms of Service</h1>
 			<div class="header-divider"></div>
-			<p>Our Terms have changed, to see the previous version of our TOS please click <a href="/tos-archived" title="Archived Terms of Service - HostGator">here</a>.</p>
+			<div class="notice-section">
+				<h4>Our Terms have changed! Starting August 14, 2014</h4>
+				<p>In the Terms of Service below you will find the additions made on August 14, 2014:</p>
+				<ul>
+					<li><strong>Section 8: </strong><a href="#migrate-account" class="underline">HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center....</a></li>
+				</ul>
+				<p>To see the previous version of our TOS, please <a href="/tos-archived">click here</a></p>
+			</div>
 			<p>These Terms of Service (the &#x201C;Agreement&#x201D;) are an agreement between HostGator.com, LLC (&quot;HostGator&quot; or &#x201C;us&#x201D; or &#x201C;our&#x201D;) and you (&#x201C;User&#x201D; or &#x201C;you&#x201D; or &#x201C;your&#x201D;).  This Agreement sets forth the general terms and conditions of your use of the products and services made available by HostGator and of the HostGator.com website (collectively, the &#x201C;Services&#x201D;). By using the Services, you agree to be bound by this Agreement.  If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Services.</p>
 			<ol>
 				<li>
@@ -80,6 +87,7 @@
 						<li>The Services, including all related equipment, networks and network devices are provided only for authorized customer use. HostGator may, but is not obligated to, monitor our systems, including without limitation, to ensure that use is authorized, to facilitate protection against unauthorized access, and to verify security procedures, survivability, and operational security. During monitoring, information may be examined, recorded, copied and used for authorized purposes. By using the Services, you consent to monitoring for these purposes.</li>
 						<li>Any account found connecting to a third party network or system without authorization from the third party is subject to suspension. Access to networks or systems outside of your direct control requires the express written consent of the third party. HostGator may, at our discretion, request documentation to prove that your access to a third party network or system is authorized.</li>
 						<li>Any account that is found to be compromised may be disabled and/or terminated. If you do not clean up your account after being notified by HostGator of an ongoing issue, we reserve the right to keep your account disabled. Upon your request, HostGator may clean-up your account for an additional fee.</li>
+						<li id="migrate-account">HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center policies, local law or for technical or other reasons without notice.</li>
 					</ol>
 				</li>
 				<li>

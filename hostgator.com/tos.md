@@ -1,14 +1,20 @@
 # Terms of Service
 
-Our Terms have changed, to see the previous version of our TOS please click [here][0].
+#### Our Terms have changed! Starting August 14, 2014
+
+In the Terms of Service below you will find the additions made on August 14, 2014:
+
+* **Section 8: **[HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center....][0]
+
+To see the previous version of our TOS, please [click here][1]
 
 These Terms of Service (the "Agreement") are an agreement between HostGator.com, LLC ("HostGator" or "us" or "our") and you ("User" or "you" or "your"). This Agreement sets forth the general terms and conditions of your use of the products and services made available by HostGator and of the HostGator.com website (collectively, the "Services"). By using the Services, you agree to be bound by this Agreement. If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Services.
 
 1. **Additional Policies and Agreements**
   1. Use of the Services is also governed by the following policies, which are incorporated by reference. By using the Services, you also agree to the terms of the following policies. 
-    1. [Privacy Policy][1]
-    2. [Acceptable Use Policy][2]
-    3. [Copyright Infringement Policy][3]
+    1. [Privacy Policy][2]
+    2. [Acceptable Use Policy][3]
+    3. [Copyright Infringement Policy][4]
   2. Additional terms may also apply to certain Services, and are incorporated by reference herein as applicable. For example, if you register a domain name with us, then the Domain Registration Agreement will also apply to you and would be incorporated herein.
 2. **Account Eligibility**
   1. By registering for or using the Services, you represent and warrant that:
@@ -52,9 +58,10 @@ The U.S. Department of the Treasury, through the Office of Foreign Assets Contro
   2. The Services, including all related equipment, networks and network devices are provided only for authorized customer use. HostGator may, but is not obligated to, monitor our systems, including without limitation, to ensure that use is authorized, to facilitate protection against unauthorized access, and to verify security procedures, survivability, and operational security. During monitoring, information may be examined, recorded, copied and used for authorized purposes. By using the Services, you consent to monitoring for these purposes.
   3. Any account found connecting to a third party network or system without authorization from the third party is subject to suspension. Access to networks or systems outside of your direct control requires the express written consent of the third party. HostGator may, at our discretion, request documentation to prove that your access to a third party network or system is authorized.
   4. Any account that is found to be compromised may be disabled and/or terminated. If you do not clean up your account after being notified by HostGator of an ongoing issue, we reserve the right to keep your account disabled. Upon your request, HostGator may clean-up your account for an additional fee.
+  5. HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center policies, local law or for technical or other reasons without notice.
 9. **HIPAA Disclaimer.** We are not "HIPAA compliant."
   
-You are solely responsible for any applicable compliance with federal or state laws governing the privacy and security of personal data, including medical or other sensitive data. You acknowledge that the Services may not be appropriate for the storage or control of access to sensitive data, such as information about children or medical or health information. HostGator does not control or monitor the information or data you store on, or transmit through, the Services. We specifically disclaim any representation or warranty that the Services, as offered, comply with the federal Health Insurance Portability and Accountability Act ("HIPAA"). Customers requiring secure storage of "protected health information" as defined under HIPAA are expressly prohibited from using the Services for such purposes. Storing and permitting access to "protected health information" is a material violation of this Agreement, and grounds for immediate account termination. We do not sign "Business Associate Agreements" and you agree that HostGator is not a Business Associate or subcontractor or agent of yours pursuant to HIPAA. If you have questions about the security of your data, you should contact [feedback@hostgator.com][4].
+You are solely responsible for any applicable compliance with federal or state laws governing the privacy and security of personal data, including medical or other sensitive data. You acknowledge that the Services may not be appropriate for the storage or control of access to sensitive data, such as information about children or medical or health information. HostGator does not control or monitor the information or data you store on, or transmit through, the Services. We specifically disclaim any representation or warranty that the Services, as offered, comply with the federal Health Insurance Portability and Accountability Act ("HIPAA"). Customers requiring secure storage of "protected health information" as defined under HIPAA are expressly prohibited from using the Services for such purposes. Storing and permitting access to "protected health information" is a material violation of this Agreement, and grounds for immediate account termination. We do not sign "Business Associate Agreements" and you agree that HostGator is not a Business Associate or subcontractor or agent of yours pursuant to HIPAA. If you have questions about the security of your data, you should contact [feedback@hostgator.com][5].
 10. **Compatibility with the Services**
   1. You agree to cooperate fully with HostGator in connection with HostGator's provision of the Services. It is solely your responsibility to provide any equipment or software that may be necessary for your use of the Services. To the extent that the performance of any of our obligations under this Agreement may depend upon your performance of your obligations, HostGator is not responsible for any delays due to your failure to timely perform your obligations.
   2. You are solely responsible for ensuring that all User Content and User Websites are compatible with the hardware and software used by HostGator to provide the Services, which may be changed by HostGator from time to time in our sole discretion.
@@ -76,7 +83,7 @@ All invoices must be paid within ten (10) days of the invoice due date. Any invo
 **Dedicated servers are subject to being reclaimed and all content deleted if you fail to make a timely payment. If you make a late payment we do not automatically reactivate the dedicated servers. Contact HostGator directly after you make a late payment to reactivate the dedicated server.**
   5. **Domain Payments.**
   
-It is solely your responsibility to notify HostGator's Billing department via a support ticket created from [http://support.hostgator.com][5] after purchasing a domain. Domain renewal notices are provided as a courtesy reminder and HostGator is not responsible for a failure to renew a domain or a failure to notify a customer about a domain's renewal. Domain renewals are billed and renewed thirty (30) days before the renew date.
+It is solely your responsibility to notify HostGator's Billing department via a support ticket created from [http://support.hostgator.com][6] after purchasing a domain. Domain renewal notices are provided as a courtesy reminder and HostGator is not responsible for a failure to renew a domain or a failure to notify a customer about a domain's renewal. Domain renewals are billed and renewed thirty (30) days before the renew date.
   6. **Fraud.**
   
 It is a violation of this Agreement for you to misuse or fraudulently use credit cards, charge cards, electronic funds transfers, electronic checks, or any other payment method. HostGator may report any such misuse or fraudulent use, as determined in HostGator's sole discretion, to governmental and law enforcement authorities, credit reporting services, financial institutions and/or credit card companies.
@@ -105,7 +112,7 @@ Only first-time accounts are eligible for a refund. For example, if you've had a
 There are no refunds on dedicated servers, administrative fees, and install fees for custom software. Please note that domain refunds will only be considered if the domain was ordered in conjunction with a hosting package and will be issued at HostGator's sole discretion. Any refunds issued for domain names will be reduced by the market value of the gTLD. Purchases of ccTLDs are non-refundable.
   5. **Cancellation Process.**
   
-You may terminate or cancel the Services by giving HostGator written notice via the [cancellation][6] form provided. In such event: (i) you shall be obligated to pay all fees and charges accrued prior to the effectiveness of such cancellation and (ii) HostGator may, in our sole discretion, refund all pre-paid fees for basic hosting services for the full months remaining after the effectiveness of such cancellation (i.e. no partial month fees shall be refunded) less any setup fees, applicable taxes and any discount applied for prepayment, provided that you are not in breach of this Agreement.
+You may terminate or cancel the Services by giving HostGator written notice via the [cancellation][7] form provided. In such event: (i) you shall be obligated to pay all fees and charges accrued prior to the effectiveness of such cancellation and (ii) HostGator may, in our sole discretion, refund all pre-paid fees for basic hosting services for the full months remaining after the effectiveness of such cancellation (i.e. no partial month fees shall be refunded) less any setup fees, applicable taxes and any discount applied for prepayment, provided that you are not in breach of this Agreement.
 
 ---
 
@@ -118,7 +125,7 @@ Once we receive your cancellation form and have confirmed all necessary informat
 Cancellations for shared and reseller accounts will be effective on the account's renewal date. Cancellations for dedicated and VPS accounts will be effective immediately.
   6. **Domains.**
   
-Domain renewals are billed and renewed thirty (30) days before the renewal date. It is your responsibility to notify HostGator's Billing department via a support ticket created from [http://support.hostgator.com][7] to cancel any domain registration _at least thirty (30) days prior to the renewal date_. No refunds will be given once a domain is renewed. All domain registrations and renewals are final.
+Domain renewals are billed and renewed thirty (30) days before the renewal date. It is your responsibility to notify HostGator's Billing department via a support ticket created from [http://support.hostgator.com][8] to cancel any domain registration _at least thirty (30) days prior to the renewal date_. No refunds will be given once a domain is renewed. All domain registrations and renewals are final.
   7. **Foreign Currencies.**
   
 Exchange rate fluctuations for international payments are constant and unavoidable. All refunds are processed in U.S. dollars and will reflect the exchange rate in effect on the date of the refund. All refunds are subject to this fluctuation and HostGator is not responsible for any change in exchange rates between the time of payment and the time of refund.
@@ -138,7 +145,7 @@ All use of hosting space provided by HostGator is subject to the terms of this A
 Shared servers are not limited in their bandwidth allowance. Unlimited bandwidth usage is not available for resellers, dedicated or VPS servers, which are subject to the terms of the plan you purchased and can be viewed in your control panel.
 15. **Uptime Guarantee.**
   
-If your shared or reseller server has a physical downtime that falls short of the 99.9% uptime guarantee, you may receive one (1) month of credit on your account. This uptime guarantee does not apply to planned maintenance. Approval of any credit is at the sole discretion of HostGator and may be dependent upon the justification provided. Third party monitoring service reports may not be used for justification due to a variety of factors including the monitor's network capacity/transit availability. The uptime of the server is defined as the reported uptime from the operating system and the Apache Web Server which may differ from the uptime reported by other individual services. To request a credit, please visit [http://support.hostgator.com][7] to create a support ticket to our Billing department with justification. Uptime guarantees only apply to shared and reseller solutions. Dedicated servers are covered by a network guarantee in which the credit is prorated for the amount of time the server is down which is not related to our uptime guarantee.
+If your shared or reseller server has a physical downtime that falls short of the 99.9% uptime guarantee, you may receive one (1) month of credit on your account. This uptime guarantee does not apply to planned maintenance. Approval of any credit is at the sole discretion of HostGator and may be dependent upon the justification provided. Third party monitoring service reports may not be used for justification due to a variety of factors including the monitor's network capacity/transit availability. The uptime of the server is defined as the reported uptime from the operating system and the Apache Web Server which may differ from the uptime reported by other individual services. To request a credit, please visit [http://support.hostgator.com][8] to create a support ticket to our Billing department with justification. Uptime guarantees only apply to shared and reseller solutions. Dedicated servers are covered by a network guarantee in which the credit is prorated for the amount of time the server is down which is not related to our uptime guarantee.
 16. **Reseller Terms and Client Responsibility**
   1. Resellers shall ensure that each of their clients complies with this Agreement.
   2. Resellers are responsible for supporting their clients. HostGator does not provide support to clients of HostGator's resellers. If a reseller's client contacts HostGator, HostGator reserves the right to place a reseller client account on hold until the reseller can assume responsibility for the reseller's client. All support requests must be made by the reseller on its client's behalf for security purposes.
@@ -215,18 +222,19 @@ Neither party is liable for any default or delay in the performance of any of it
   
 Except as otherwise expressly provided in this Agreement, nothing in this Agreement is intended, nor shall anything herein be construed to confer any rights in any person other than the parties hereto and their respective successors and permitted assigns. Notwithstanding the foregoing, user acknowledges and agrees that any supplier of a third-party product or service that is identified as a third-party beneficiary in the service description, is an intended third-party beneficiary of the provisions set forth in this Agreement as they relate specifically to its products or services and shall have the right to enforce directly the terms and conditions of this Agreement with respect to its products or services against user as if it were a party to this Agreement.
 
-**Virtual Private Server TOS addendum **[Click here][8]
+**Virtual Private Server TOS addendum **[Click here][9]
 
-**Domain Registration Agreement **[Click here][9]
+**Domain Registration Agreement **[Click here][10]
 
 
-[0]: /tos-archived "Archived Terms of Service - HostGator"
-[1]: /privacy "Privacy Policy"
-[2]: /tos/acceptable-use-policy "Acceptable Use Policy"
-[3]: /copyright "Sample Copyright Complaint Steps"
-[4]: mailto:feedback@hostgator.com
-[5]: http://support.hostgator.com
-[6]: /cancel "Cancellation Form"
-[7]: http://support.hostgator.com "Support Portal"
-[8]: /tos/vps-tos "Virtual Private Server TOS addendum"
-[9]: /tos/domain-registration-agreement "Domain Registration Agreement"
+[0]: #migrate-account
+[1]: /tos-archived
+[2]: /privacy "Privacy Policy"
+[3]: /tos/acceptable-use-policy "Acceptable Use Policy"
+[4]: /copyright "Sample Copyright Complaint Steps"
+[5]: mailto:feedback@hostgator.com
+[6]: http://support.hostgator.com
+[7]: /cancel "Cancellation Form"
+[8]: http://support.hostgator.com "Support Portal"
+[9]: /tos/vps-tos "Virtual Private Server TOS addendum"
+[10]: /tos/domain-registration-agreement "Domain Registration Agreement"

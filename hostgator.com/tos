@@ -1,317 +1,88 @@
 
-		<div class="center_column_theme2">
-			<h1>Terms of Service</h1>
-			<div class="header-divider"></div>
-			<div class="notice-section">
-				<h4>Our Terms have changed! Starting August 14, 2014</h4>
-				<p>In the Terms of Service below you will find the additions made on August 14, 2014:</p>
-				<ul>
-					<li><strong>Section 8: </strong><a href="#migrate-account" class="underline">HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center....</a></li>
-				</ul>
-				<p>To see the previous version of our TOS, please <a href="/tos-archived">click here</a></p>
-			</div>
-			<p>These Terms of Service (the &#x201C;Agreement&#x201D;) are an agreement between HostGator.com, LLC (&quot;HostGator&quot; or &#x201C;us&#x201D; or &#x201C;our&#x201D;) and you (&#x201C;User&#x201D; or &#x201C;you&#x201D; or &#x201C;your&#x201D;).  This Agreement sets forth the general terms and conditions of your use of the products and services made available by HostGator and of the HostGator.com website (collectively, the &#x201C;Services&#x201D;). By using the Services, you agree to be bound by this Agreement.  If you do not agree to abide by the terms of this Agreement, you are not authorized to use or access the Services.</p>
-			<ol>
-				<li>
-					<strong>Additional Policies and Agreements</strong>
-					<ol class="alpha">
-						<li>
-							Use of the Services is also governed by the following policies, which are incorporated by reference. By using the Services, you also agree to the terms of the following policies. 
-							<ol class="lower-roman">
-								<li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
-								<li><a href="/tos/acceptable-use-policy" title="Acceptable Use Policy">Acceptable Use Policy</a></li>
-								<li><a href="/copyright" title="Sample Copyright Complaint Steps">Copyright Infringement Policy</a></li>
-							</ol>
-						</li>
-						<li>Additional terms may also apply to certain Services, and are incorporated by reference herein as applicable.  For example, if you register a domain name with us, then the Domain Registration Agreement will also apply to you and would be incorporated herein.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Account Eligibility</strong>
-					<ol class="alpha">
-						<li>
-							By registering for or using the Services, you represent and warrant that:
-							<ol class="lower-roman">
-								<li>You are eighteen (18) years of age or older.  The Services are intended solely for Users who are eighteen (18) years of age or older. Any registration, use of or access to the Services, by anyone under eighteen (18) is unauthorized and is a violation of this Agreement.</li>
-								<li>If you use the Services on behalf of another party you agree that you are authorized to bind such other party to this Agreement and to act on such other party&#x2019;s behalf with respect to any actions you take in connection with the Services.</li>
-							</ol>
-						</li>
-						<li>It is your responsibility to provide accurate, current, and complete information on the registration forms, including an email address that is different from the domain you are signing up under. If there is ever an abuse issue or we need to contact you, we will use the primary email address we have on file. It is your responsibility to ensure that the contact information for your account, including any domain accounts is accurate, correct and complete at all times. HostGator is not responsible for any lapse in the Services, including without limitation, any lapsed domain registrations due to outdated contact information being associated with the domain. If you need to verify or change your contact information, please contact our sales team via email or update your contact information through the HostGator Billing and Support System. Providing false contact information of any kind may result in the termination of your account. In dedicated server purchases or certain other cases, you may be required to provide government issued identification and possibly a scan of the credit card used for verification purposes. Failure to provide the information requested may result in your order being denied.</li>
-						<li>You agree to be fully responsible for all use of your account and for any actions that take place through your account.  It is your responsibility to maintain the confidentiality of your password and other information related to the security of your account.</li>
-						<li>Any dedicated IP order in addition to those provided with a hosting package may be subject to IP justification.  IP justification practices are subject to change to remain in compliance with the policies of the American Registry for Internet Numbers (ARIN). We reserve the right to deny any dedicated IP request based on insufficient justification or current IP utilization.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Transfers</strong>
-					<br>Our Transfers Team will make every effort to help you move your website to us. Transfers are provided as a courtesy service.  We do not make any guarantees regarding the availability, possibility, or time required to complete an account transfer. Each hosting company is configured differently, and some hosting platforms save data in an incompatible or proprietary format, which may make it extremely difficult, if not impossible, to migrate some or all account data.  In some cases we may not be able to assist you in a transfer of data from an old host. The free transfer service is available for thirty (30) days from your sign up date. Transfers outside of the thirty (30) day period will incur a charge; please contact a member of our Transfers department to receive a price quote.  In no event shall HostGator be held liable for any lost or missing data or files resulting from a transfer to or from HostGator. <strong>You are solely responsible for backing up your data in all circumstances.</strong>
-				</li>
-				<li>
-					<strong>HostGator Content</strong>
-					<br>Except for User Content (as defined below), all content available through the Services, including designs, text, graphics, images, video, information, software, audio and other files, and their selection and arrangement, and all software used to provide the Services (collectively, &quot;HostGator Content&quot;), are the proprietary property of HostGator or HostGator&#x2019;s licensors. HostGator Content may not be modified, copied, distributed, framed, reproduced, republished, downloaded, scraped, displayed, posted, transmitted, sold or exploited for any purpose in any form or by any means, in whole or in part, other than as expressly permitted in this Agreement.  You may not, directly or indirectly, reverse engineer, decompile, disassemble or otherwise attempt to derive source code or other trade secrets from any HostGator Content.  Any use of HostGator Content, other than as specifically authorized herein, is prohibited and will automatically terminate your rights to use the Services and any HostGator Content.  All rights to use HostGator Content that are not expressly granted in this Agreement are reserved by HostGator and HostGator&#x2019;s licensors.
-				</li>
-				<li>
-					<strong>User Content</strong>
-					<ol class="alpha">
-						<li>You may be able to upload, store, publish, display and distribute information, text, photos, videos and other content on or through the Services (collectively, &#x201C;User Content&#x201D;).  User Content includes any content posted by you or by users of any of your websites hosted through the Services (&#x201C;User Websites&#x201D;).  You are solely responsible for any and all User Content and any transactions or other activities conducted on or through User Websites. By posting or distributing User Content on or through the Services, you represent and warrant to HostGator that (i) you have all the necessary rights to post or distribute such User Content, and (ii) your posting or distribution of such User Content does not infringe or violate the rights of any third party.
-							<hr>Solely for purposes of providing the Services, you hereby grant to HostGator a non-exclusive, royalty-free, worldwide right and license to: (i) use, reproduce, publicly perform, publicly display, modify, translate, excerpt (in whole or in part), publish and distribute User Content; and (ii) make archival or back-up copies of User Content and User Websites.  Except for the rights expressly granted herein, HostGator does not acquire any right, title or interest in or to the User Content, all of which shall remain solely with you.
-						</li>
-						<li>HostGator exercises no control over, and accepts no responsibility for, User Content or the content of any information passing through HostGator&apos;s computers, network hubs and points of presence or the Internet.  HostGator does not monitor User Content.  However, you acknowledge and agree that HostGator may, but is not obligated to, immediately take any corrective action in HostGator&#x2019;s sole discretion, including without limitation removal of all or a portion of the User Content or User Websites, and suspend or terminate any and all Services without refund if you violate the terms of this Agreement.  You hereby agree that HostGator shall have no liability due to any corrective action that HostGator may take.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Third Party Products and Services</strong>
-					<ol class="alpha">
-						<li>
-							<strong>Third Party Providers</strong>
-							<br>HostGator may offer certain third party products and services.  Such products and services may be subject to the terms and conditions of the third party provider.  Discounts, promotions and special third party offers may be subject to additional restrictions and limitations by the third party provider. You should confirm the terms of any purchase and the use of goods or services with the specific third party provider with whom you are dealing.
-							<hr>HostGator does not make any representations or warranties regarding, and is not liable for, the quality, availability, or timeliness of goods or services provided by a third party provider. You undertake all transactions with these third party providers at your own risk. We do not warrant the accuracy or completeness of any information regarding third party providers. HostGator is not an agent, representative, trustee or fiduciary of you or the third party provider in any transaction.
-						</li>
-						<li>
-							<strong>HostGator as Reseller or Licensor</strong>
-							<br>HostGator may act as a reseller or licensor of certain third party services, hardware, software and equipment used in connection with the Services (&quot;Non-HostGator Products&quot;). HostGator shall not be responsible for any changes in the Services that cause any Non-HostGator Products to become obsolete, require modification or alteration, or otherwise affect the performance of the Services. Any malfunction or manufacturer&apos;s defects of Non-HostGator Products, either sold, licensed or provided by HostGator to you will not be deemed a breach of HostGator&apos;s obligations under this Agreement. Any rights or remedies you may have regarding the ownership, licensing, performance or compliance of any Non-HostGator Product are limited to those rights extended to you by the manufacturer of such Non-HostGator Product. You are entitled to use any Non-HostGator Product supplied by HostGator only in connection with your use of the Services as permitted under this Agreement. You shall make no attempt to copy, alter, reverse engineer, or tamper with such Non-HostGator Product or to use it other than in connection with the Services. You shall not resell, transfer, export or re-export any Non-HostGator Product, or any technical data derived therefrom, in violation of any applicable law, rules or regulations.
-						</li>
-						<li>
-							<strong>Third Party Websites</strong>
-							<br>The Services may contain links to other websites that are not owned or controlled by HostGator (&quot;Third Party Sites&quot;), as well as articles, photographs, text, graphics, pictures, designs, sound, video, information, and other content or items belonging to or originating from third parties (&quot;Third Party Content&quot;). We are not responsible for any Third Party Sites or Third Party Content accessed through the Services.  Third Party Sites and Third Party Content are not investigated, monitored or checked for accuracy, appropriateness, or completeness by us. If you decide to access Third Party Sites or to access or use any Third Party Content, you do so at your own risk and you should be aware that our terms and policies no longer govern. You should review the applicable third party&#x2019;s terms and policies, including privacy and data gathering practices of any website to which you navigate.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Prohibited Persons (Countries, Entities, And Individuals).</strong>
-					<br>The U.S. Department of the Treasury, through the Office of Foreign Assets Control (&#x201C;OFAC&#x201D;), prohibits U.S. companies from engaging in all or certain commercial activities with certain sanctioned countries (each a &#x201C;Sanctioned Country&#x201D;) and certain individuals, organizations or entities, including without limitation, certain &#x201C;Specially Designated Nationals&#x201D;&#xA0;(&#x201C;SDN&#x201D;) listed by OFAC.&#xA0;If you are located in a Sanctioned Country or are listed as an SDN, you are prohibited from registering or signing up with, subscribing to, or using the Services.&#xA0; Unless otherwise provided with explicit permission, HostGator also does not register, and prohibits the use of any of our Services in connection with, any Country-Code Top Level Domain Name (&#x201C;ccTLD&#x201D;) for any Sanctioned Country.
-				</li>
-				<li>
-					<strong>Account Security and HostGator Systems.</strong>
-					<ol class="alpha">
-						<li>It is your responsibility to ensure that scripts/programs installed under your account are secure and permissions of directories are set properly, regardless of the installation method. When at all possible, set permissions on most directories to 755 or as restrictive as possible. Users are ultimately responsible for all actions taken under their account. This includes the compromise of credentials such as user name and password. You are required to use a secure password. If a weak password is used, your account may be suspended until you agree to use a more secure password. Audits may be done to prevent weak passwords from being used. If an audit is performed, and your password is found to be weak, we will notify you and allow time for you to change or update your password before suspending your account.</li>
-						<li>The Services, including all related equipment, networks and network devices are provided only for authorized customer use. HostGator may, but is not obligated to, monitor our systems, including without limitation, to ensure that use is authorized, to facilitate protection against unauthorized access, and to verify security procedures, survivability, and operational security. During monitoring, information may be examined, recorded, copied and used for authorized purposes. By using the Services, you consent to monitoring for these purposes.</li>
-						<li>Any account found connecting to a third party network or system without authorization from the third party is subject to suspension. Access to networks or systems outside of your direct control requires the express written consent of the third party. HostGator may, at our discretion, request documentation to prove that your access to a third party network or system is authorized.</li>
-						<li>Any account that is found to be compromised may be disabled and/or terminated. If you do not clean up your account after being notified by HostGator of an ongoing issue, we reserve the right to keep your account disabled. Upon your request, HostGator may clean-up your account for an additional fee.</li>
-						<li id="migrate-account">HostGator reserves the right to migrate your account from one data center to another in order to comply with applicable data center policies, local law or for technical or other reasons without notice.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>HIPAA Disclaimer.</strong> We are not &quot;HIPAA compliant.&quot;
-					<br>You are solely responsible for any applicable compliance with federal or state laws governing the privacy and security of personal data, including medical or other sensitive data. You acknowledge that the Services may not be appropriate for the storage or control of access to sensitive data, such as information about children or medical or health information. HostGator does not control or monitor the information or data you store on, or transmit through, the Services. We specifically disclaim any representation or warranty that the Services, as offered, comply with the federal Health Insurance Portability and Accountability Act (&#x201C;HIPAA&#x201D;). Customers requiring secure storage of &#x201C;protected health information&#x201D; as defined under HIPAA are expressly prohibited from using the Services for such purposes. Storing and permitting access to &#x201C;protected health information&#x201D; is a material violation of this Agreement, and grounds for immediate account termination. We do not sign &#x201C;Business Associate Agreements&#x201D; and you agree that HostGator is not a Business Associate or subcontractor or agent of yours pursuant to HIPAA. If you have questions about the security of your data, you should contact&#xA0;<a href="mailto:feedback@hostgator.com">feedback@hostgator.com</a>.
-				</li>
-				<li>
-					<strong>Compatibility with the Services</strong>
-					<ol class="alpha">
-						<li>You agree to cooperate fully with HostGator in connection with HostGator&apos;s provision of the Services. It is solely your responsibility to provide any equipment or software that may be necessary for your use of the Services. To the extent that the performance of any of our obligations under this Agreement may depend upon your performance of your obligations, HostGator is not responsible for any delays due to your failure to timely perform your obligations.</li>
-						<li>You are solely responsible for ensuring that all User Content and User Websites are compatible with the hardware and software used by HostGator to provide the Services, which may be changed by HostGator from time to time in our sole discretion.</li>
-						<li>You are solely responsible for backing-up all User Content, including but not limited to, any User Websites. HostGator does not warrant that we back-up any User Content, and you agree to accept the risk of loss of any and all User Content.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Billing and Payment Information</strong>
-					<ol class="alpha">
-						<li>
-							<strong>Prepayment.</strong>
-							<br>It is your responsibility to ensure that your payment information is up to date, and that all invoices are paid on time.  You agree to pay for the Services in advance of the time period during which such Services are provided. Subject to applicable laws, rules, and regulations, payments received will be first applied to the oldest outstanding invoice in your billing account.
-						</li>
-						<li>
-							<strong>Autorenewal.</strong>
-							<br>Unless otherwise provided, you agree that until and unless you notify HostGator of your desire to cancel the Services, you will be billed on an automatically recurring basis to prevent any disruption to your Services, using your credit card or other billing information on file with us.
-						</li>
-						<li>
-							<strong>Taxes.</strong>
-							<br>Listed fees for the Services do not include any applicable sales, use, revenue, excise or other taxes imposed by any taxing authority. Any applicable taxes will be added to HostGator&apos;s invoice as a separate charge to be paid by you. All fees are non-refundable when paid unless otherwise stated.
-						</li>
-						<li>
-							<strong>Late Payment.</strong>
-							<br>All invoices must be paid within ten (10) days of the invoice due date. Any invoice that is outstanding for more than ten (10) days may result in the suspension or termination of Services. Access to the account will not be restored until payment has been received.  If you fail to pay the fees as specified herein, HostGator may suspend or terminate your account and pursue the collection costs incurred by HostGator, including without limitation, any arbitration and legal fees, and reasonable attorneys&apos; fees. HostGator will not activate new orders or activate new packages for customers who have an outstanding balance on their account.
-							<br><strong>Dedicated servers are subject to being reclaimed and all content deleted if you fail to make a timely payment.  If you make a late payment we do not automatically reactivate the dedicated servers.  Contact HostGator directly after you make a late payment to reactivate the dedicated server.</strong>
-						</li>
-						<li>
-							<strong>Domain Payments.</strong>
-							<br>It is solely your responsibility to notify HostGator&#x2019;s Billing department via a support ticket created from&#xA0;<a href="http://support.hostgator.com" target="_blank">http://support.hostgator.com</a>&#xA0;after purchasing a domain. Domain renewal notices are provided as a courtesy reminder and HostGator is not responsible for a failure to renew a domain or a failure to notify a customer about a domain&apos;s renewal.  Domain renewals are billed and renewed thirty (30) days before the renew date.
-						</li>
-						<li>
-							<strong>Fraud.</strong>
-							<br>It is a violation of this Agreement for you to misuse or fraudulently use credit cards, charge cards, electronic funds transfers, electronic checks, or any other payment method. HostGator may report any such misuse or fraudulent use, as determined in HostGator&#x2019;s sole discretion, to governmental and law enforcement authorities, credit reporting services, financial institutions and/or credit card companies.
-						</li>
-						<li>
-							<strong>Invoice Disputes.</strong>
-							<br>You have ninety (90) days to dispute any charge or payment processed by HostGator. If you have any questions concerning a charge on your account, our billing department directly for assistance. 
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Money-back Guarantee</strong>
-					<ol class="alpha">
-						<li>
-							<strong>Dedicated Servers.</strong>
-							<br><u>There are no refunds on dedicated servers. The forty-five (45) day money- back guarantee does not apply to dedicated servers.</u>
-						</li>
-						<li>
-							<strong>Managed shared, VPS and Reseller Services.</strong>
-							<br>HostGator offers a forty-five (45) day money- back guarantee for HostGator&apos;s managed shared, VPS, and reseller hosting services only.  Subject to the terms described in Section 13 below, if you are not completely satisfied with these hosting services and you terminate your account  within forty-five (45) days of signing up for the Services, you will be given a full refund of the amount paid for hosting. This money-back guarantee only applies to fees paid for hosting services and does not apply to administrative fees, install fees for custom software or other setup fees, or to any fees for any other additional services.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Cancellations and Refunds</strong>
-					<ol class="alpha">
-						<li>
-							<strong>Payment Method.</strong>
-							<br>No refunds will be provided <u>if you use any of the following methods of payment: bank wire transfers, Western Union payments, checks and money orders. If you use any of these payment methods, any applicable credit will be posted to your hosting account instead of a refund</u>.
-						</li>
-						<li>
-							<strong>Money-back Guarantee.</strong>
-							<br>If an account with a forty-five (45) day money-back guarantee is purchased and then cancelled within the first forty-five (45) days of the beginning of the term (the &#x201C;Money-Back Guarantee Period&#x201D;), you will, upon your written request to the HostGator Support Team (the &#x201C;Refund Request&#x201D;) within ninety (90) days of such termination or cancellation (&#x201C;Notice Period&#x201D;), receive a full refund of all basic shared, VPS and reseller hosting fees previously paid by you to HostGator for the initial term (&#x201C;Money-Back Guarantee Refund&#x201D;); provided that such Money-Back Guarantee Refund shall be due to you only upon your compliance with, and subject in all respects to the terms and conditions of, this Section 13. Requests for these refunds must be made in writing to the HostGator Support Team. Refunds will only be issued for basic shared, VPS and reseller hosting services and will not include administrative fees, install fees for custom software or other setup fees, nor will they include any fees for any other additional services.  Money Back Guarantee Refunds will not accrue, and shall not be paid under any circumstances, if you do not provide the applicable Refund Request within the Notice Period.
-						</li>
-						<li>
-							<strong>Refund Eligibility.</strong>
-							<br>Only first-time accounts are eligible for a refund. For example, if you&apos;ve had an account with us before, canceled and signed up again, or if you have opened a second account with us, you will not be eligible for a refund. <strong>Violations of this Agreement will waive your rights under the refund policy.</strong>
-						</li>
-						<li>
-							<strong>Non-refundable Products and Services.</strong>
-							<br>There are no refunds on dedicated servers, administrative fees, and install fees for custom software. Please note that domain refunds will only be considered if the domain was ordered in conjunction with a hosting package and will be issued at HostGator&#x2019;s sole discretion. Any refunds issued for domain names will be reduced by the market value of the gTLD. Purchases of ccTLDs are non-refundable.
-						</li>
-						<li>
-							<strong>Cancellation Process.</strong>
-							<br>You may terminate or cancel the Services  by giving HostGator written notice via the <a href="/cancel" title="Cancellation Form">cancellation</a> form provided. In such event: (i) you shall be obligated to pay all fees and charges accrued prior to the effectiveness of such cancellation and (ii) HostGator may, in our sole discretion, refund all pre-paid fees for basic hosting services for the full months remaining after the effectiveness of such cancellation (i.e. no partial month fees shall be refunded) less any setup fees, applicable taxes and any discount applied for prepayment, provided that you are not in breach of this Agreement.
-							<hr>Once we receive your cancellation form and have confirmed all necessary information with you via email, we will inform you in writing (typically email) that your account has been canceled. Your cancellation confirmation will contain a ticket/tracking number in the subject line for your reference and for verification purposes. You should immediately receive an automatic email with a tracking number stating that &quot;Your request has been received....&quot; HostGator will confirm your request and process your cancellation shortly thereafter. If you do not hear back from us, or do not receive the automatic confirmation email within a few minutes after submitting your cancellation form, please contact us immediately via&#xA0;<span><div class="phone-tool-tip">1.866.964.2867</div>phone</span>. We require all cancellations to be done through the online form in order to (a) confirm your identity, (b) confirm in writing that you are prepared for all of your files and emails to be removed, and (c) document the request. This process aims to reduce the likelihood of mistakes, fraudulent/malicious requests, and to ensure that you are aware that your files, emails, and account may be removed immediately and permanently after a cancellation request is processed.
-							<hr>Cancellations for shared and reseller accounts will be effective on the account&#x2019;s renewal date.  Cancellations for dedicated and VPS accounts will be effective immediately.
-						</li>
-						<li>
-							<strong>Domains.</strong>
-							<br>Domain renewals are billed and renewed thirty (30) days before the renewal date.  It is your responsibility to notify HostGator&#x2019;s Billing department via a support ticket created from&#xA0;<a href="http://support.hostgator.com" title="Support Portal">http://support.hostgator.com</a>&#xA0;to cancel any domain registration <u>at least thirty (30) days prior to the renewal date</u>. No refunds will be given once a domain is renewed.  All domain registrations and renewals are final.
-						</li>
-						<li>
-							<strong>Foreign Currencies.</strong>
-							<br>Exchange rate fluctuations for international payments are constant and unavoidable. All refunds are processed in U.S. dollars and will reflect the exchange rate in effect on the date of the refund. All refunds are subject to this fluctuation and HostGator is not responsible for any change in exchange rates between the time of payment and the time of refund.</li>
-						<li>
-							<strong>Termination</strong>
-							<br>HostGator may terminate your access to the Services, in whole or in part, without notice in the event that: (i) you fail to pay any fees due; (ii) you violate this Agreement; (iii) your conduct may harm HostGator or others or cause HostGator or others to incur liability, as determined by HostGator in our sole discretion; or (iv) as otherwise specified in this Agreement. In such event, HostGator shall not refund to you any fees paid in advance of such termination, and you shall be obligated to pay all fees and charges accrued prior to the effectiveness of such termination.  Additionally, HostGator may charge you for all fees due for the Services for the remaining portion of the then current term.
-							<br><strong>UPON TERMINATION OF THE SERVICES FOR ANY REASON, USER CONTENT, USER WEBSITES, AND OTHER DATA WILL BE DELETED.</strong>
-						</li>
-					</ol>
-				</li>
-				<li id="acceptable-use-policy">
-					<strong>CPU, Bandwidth and Disk Usage</strong>
-					<ol class="alpha">
-						<li>
-							<strong>Permitted CPU and Disk Usage.</strong>
-							<br>All use of hosting space provided by HostGator is subject to the terms of this Agreement and the Acceptable Use Policy.
-							<ol class="lower-roman">
-								<li>Shared hosting space may only be used for web files, active email and content of User Websites. Shared hosting space may not be used for storage (whether of media, emails, or other data), including, as offsite storage of electronic files, email or FTP hosts. HostGator expressly reserves the right to review every shared account for excessive usage of CPU, disk space and other resources that may be caused by a violation of this Agreement or the Acceptable Use Policy. HostGator may, in our sole discretion, terminate access to the Services, apply additional fees, or remove or delete User Content for those accounts that are found to be in violation of HostGator&#x2019;s terms and conditions.</li>
-								<li>Dedicated and VPS usage is limited by the resources allocated to the specific plan that you have purchased.</li>
-							</ol>
-						</li>
-						<li>
-							<strong>Bandwidth Usage.</strong>
-							<br>Shared servers are not limited in their bandwidth allowance.  Unlimited bandwidth usage is not available for resellers, dedicated or VPS servers, which are subject to the terms of the plan you purchased and can be viewed in your control panel.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Uptime Guarantee.</strong>
-					<br>If your shared or reseller server has a physical downtime that falls short of the 99.9% uptime guarantee, you may receive one (1) month of credit on your account. This uptime guarantee does not apply to planned maintenance. Approval of any credit is at the sole discretion of HostGator and may be dependent upon the justification provided. Third party monitoring service reports may not be used for justification due to a variety of factors including the monitor&apos;s network capacity/transit availability. The uptime of the server is defined as the reported uptime from the operating system and the Apache Web Server which may differ from the uptime reported by other individual services. To request a credit, please visit <a href="http://support.hostgator.com" title="Support Portal">http://support.hostgator.com</a>&#xA0;to create a support ticket to our Billing department with justification. Uptime guarantees only apply to shared and reseller solutions. Dedicated servers are covered by a network guarantee in which the credit is prorated for the amount of time the server is down which is not related to our uptime guarantee.
-				</li>
-				<li>
-					<strong>Reseller Terms and Client Responsibility</strong>
-					<ol class="alpha">
-						<li>Resellers shall ensure that each of their clients complies with this Agreement.</li>
-						<li>Resellers are responsible for supporting their clients. HostGator does not provide support to clients of HostGator&#x2019;s resellers. If a reseller&#x2019;s client contacts HostGator, HostGator reserves the right to place a reseller client account on hold until the reseller can assume responsibility for the reseller&#x2019;s client. All support requests must be made by the reseller on its client&apos;s behalf for security purposes.</li>
-						<li>Resellers are also responsible for all content stored or transmitted under their reseller account and the actions of their clients. HostGator will hold any reseller responsible for any of their client&#x2019;s actions that violate the law or this Agreement.</li>
-						<li>HostGator is not responsible for the acts or omissions of our resellers. The reseller hereby agrees to indemnify HostGator from and against any and all claims made by any User arising from the reseller&apos;s acts or omissions.</li>
-						<li>HostGator reserves the right to revise our Reseller Program at any time. Changes shall take effect when posted online or on any subsequent date as may be set forth by HostGator.</li>
-						<li>Resellers in the HostGator Reseller Program assume all responsibility for billing and technical support for each of the Users signed up by the reseller.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Shared (non-reseller accounts)</strong>
-					<br>Shared accounts may not be used to resell web hosting to others. If you wish to resell hosting you must use a reseller account.
-				</li>
-				<li>
-					<strong>Dedicated Servers</strong>
-					<br>HostGator reserves the right to reset the password on a dedicated server if the password on file is not current so that we may do security audits as required by our datacenter. It is your responsibility to ensure that there is a valid email address and current root password on file for your dedicated server to prevent downtime from forced password resets. HostGator reserves the right to audit servers as needed and to perform administrative actions at the request of our datacenter. Dedicated servers are NOT backed up by us. It is your responsibility to maintain backups.  Dedicated servers that have invoices outstanding for more than ten (10) days may be subject to deletion which will result in the loss of all data on the server.  HostGator will not be liable for any loss of data resulting from such deletion.
-				</li>
-				<li>
-					<strong>Price Change</strong>
-					<br>HostGator reserves the right to change prices, the monthly payment amount, or any other charges at any time. We will provide you with at least thirty (30) days&#x2019; notice before charging you with any price change. It is your sole responsibility to periodically review billing information provided by HostGator through the user billing tool or through other methods of communication, including notices sent or posted by HostGator.
-				</li>
-				<li>
-					<strong>Coupons</strong>
-					<br>Discounts and coupon codes are reserved for first-time accounts or first-time customers only and may not be used towards the purchase of a domain registration unless otherwise specified. If you have previously signed up using a particular domain, you may not sign up again for that domain using another coupon at a later date. Any account found in violation of these policies will be reviewed by our Sales department and the appropriate charges will be added to the account. Coupon abuse will not be tolerated and may result in the suspension or termination of your account. All coupons and discounts are only valid towards the initial purchase and do not affect the renewal or recurring price.
-				</li>
-				<li>
-					<strong>Limitation of Liability</strong>
-					<br>IN NO EVENT WILL HOSTGATOR ITS DIRECTORS, EMPLOYEES OR AGENTS BE LIABLE TO YOU OR ANY THIRD PERSON FOR ANY INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL OR PUNITIVE DAMAGES, INCLUDING FOR ANY LOST PROFITS OR LOST DATA ARISING FROM YOUR USE OF THE SERVICES, OR ANY USER CONTENT, USER WEBSITES OR OTHER MATERIALS ACCESSED OR DOWNLOADED THROUGH THE SERVICES, EVEN IF HOSTGATOR IS AWARE OR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+        <h1 id="header" class="ytg-box">YouTube Paid Service Terms of Service</h1>
+        <div id="article-container">
+          <h4>Effective as of Mar 12, 2014</h4>
 
-NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, HOSTGATOR&apos;S LIABILITY TO YOU, OR ANY PARTY CLAIMING THROUGH YOU, FOR ANY CAUSE WHATSOEVER, AND REGARDLESS OF THE FORM OF THE ACTION, IS LIMITED TO THE AMOUNT PAID, IF ANY, BY YOU TO HOSTGATOR FOR THE SERVICES IN THE THREE (3) MONTHS PRIOR TO THE INITIAL ACTION GIVING RISE TO LIABILITY.  THIS IS AN AGGREGATE LIMIT.  THE EXISTENCE OF MORE THAN ONE CLAIM HEREUNDER WILL NOT INCREASE THIS LIMIT.
-				</li>
-				<li>
-					<strong>Indemnification</strong>
-					<br>You agree to indemnify, defend and hold harmless HostGator, our affiliates, and their respective officers, directors, employees and agents (each an &quot;Indemnified Party&quot; and, collectively, the &quot;Indemnified Parties&quot;) from and against any and all claims, damages, losses, liabilities, suits, actions, demands, proceedings (whether legal or administrative), and expenses (including, but not limited to, reasonable attorney&apos;s fees) threatened, asserted, or filed by a third party against any of the Indemnified Parties arising out of or relating to (i) your use of the Services, (ii) any breach or violation by you of this Agreement; or (iii) any acts or omissions by you. The terms of this section shall survive any termination of this Agreement.
-				</li>
-				<li>
-					<strong>Arbitration</strong>
-					<br>By using the Services, you hereby submit to the exclusive jurisdiction of the American Arbitration Association (&#x201C;AAA&#x201D;) in connection with any dispute relating to, concerning or arising out of this Agreement.  The arbitration will be conducted before a single arbitrator chosen by HostGator and will be held at the AAA location chosen by HostGator in Texas. Payment of all filing, administrative and arbitrator fees will be governed by the AAA&#x2019;s rules, unless otherwise stated in this paragraph.  In the event you are able to demonstrate that the costs of arbitration will be prohibitive as compared to the costs of litigation, HostGator will pay as much of your filing, administrative, and arbitrator fees in connection with the arbitration as the arbitrator deems necessary to prevent the arbitration from being cost-prohibitive.  The arbitration before the AAA shall proceed solely on an individual basis without the right for any claims to be arbitrated on a class action basis or on bases involving claims brought in a purported representative capacity on behalf of others.  The Federal Arbitration Act, and not any state arbitration law, governs all arbitration under this paragraph.  All decisions rendered by the arbitrator will be binding and final. The arbitrator&apos;s award is final and binding on all parties. The arbitrator&#x2019;s authority to resolve and make written awards is limited to claims between you and HostGator alone.  Claims may not be joined or consolidated unless agreed to in writing by all parties.  No arbitration award or decision will have any preclusive effect as to issues or claims in any dispute with anyone who is not a named party to the arbitration. If you initiate litigation or any other proceeding against HostGator in violation of this paragraph, you agree to pay HostGator&#x2019;s reasonable costs and attorneys&#x2019; fees incurred in connection with our enforcement of this paragraph.
-				</li>
-				<li>
-					<strong>Independent Contractor</strong>
-					<br>HostGator and User are independent contractors and nothing contained in this Agreement places HostGator and User in the relationship of principal and agent, partners or joint venturers. Neither party has, expressly or by implication, or may represent itself as having, any authority to make contracts or enter into any agreements in the name of the other party, or to obligate or bind the other party in any manner whatsoever.
-				</li>
-				<li>
-					<strong>Governing Law; Jurisdiction</strong>
-					<br>Any controversy or claim arising out of or relating to this Agreement, the formation of this Agreement or the breach of this Agreement, including any claim based upon an alleged tort, shall be governed by the substantive laws of the State of Texas. The United Nations Convention on Contracts for the International Sale of Goods does not apply to this Agreement.
-				</li>
-				<li>
-					<strong>Disclaimer</strong>
-					<br>HostGator shall not be responsible for any damages your business may suffer. HostGator makes no warranties of any kind, expressed or implied for the Services. HostGator disclaims any warranty of merchantability or fitness for a particular purpose, including loss of data resulting from delays, delivery failures, wrong deliveries, and any and all service interruptions caused by HostGator or our employees.
-				</li>
-				<li>
-					<strong>Backups and Data Loss</strong>
-					<br>Your use of the Services is at your sole risk. HostGator&#x2019;s backup service runs once a week and overwrites any of our previous backups. Only one week of backups are kept at a time. This service is provided only to shared and reseller accounts as a courtesy and may be modified or terminated at any time at HostGator&#x2019;s sole discretion. HostGator does not maintain backups of dedicated accounts. HostGator is not responsible for files and/or data residing on your account. You agree to take full responsibility for all files and data transferred and to maintain all appropriate backup of files and data stored on HostGator&#x2019;s servers.
-					<hr>Any shared account using more than 20 gigs of disk space will be removed from our off site weekly backup with the exception of databases continuing to be backed up. All data will continue to be mirrored to a secondary drive to help protect against data loss in the event of a drive failure.
-				</li>
-				<li>
-					<strong>Limited Warranty</strong>
-					<br>THE SERVICES PROVIDED UNDER THIS AGREEMENT ARE PROVIDED ON AN &#x201C;AS IS&#x201D; AND &#x201C;AS AVAILABLE BASIS.&#x201D;  EXCEPT AS EXPRESSLY PROVIDED IN THIS SECTION, HOSTGATOR AND OUR AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS DISCLAIM ALL WARRANTIES OF ANY KIND, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, FOR THE SERVICES PROVIDED HEREUNDER.  HOSTGATOR AND OUR AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS MAKE NO REPRESENTATIONS OR WARRANTIES (I) THAT THE SERVICES WILL BE UNINTERRUPTED, ERROR FREE OR COMPLETELY SECURE; (II) AS TO THE RESULTS THAT MAY BE OBTAINED FROM THE USE OF THE SERVICES; OR (III) AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION PROVIDED THROUGH THE SERVICES.  HOSTGATOR AND OUR AFFILIATES, EMPLOYEES, AGENTS, SUPPLIERS AND LICENSORS ARE NOT LIABLE, AND EXPRESSLY DISCLAIMS ANY LIABILITY, FOR THE CONTENT OF ANY DATA TRANSFERRED EITHER TO OR FROM USERS OR STORED BY USERS ON OR THROUGH THE SERVICES. THE TERMS OF THIS SECTION SHALL SURVIVE ANY TERMINATION OF THIS AGREEMENT.
-				</li>
-				<li>
-					<strong>Disclosure to Law Enforcement</strong>
-					<br>HostGator may disclose User information to law enforcement agencies without further consent or notification to the User upon lawful request from such agencies. We cooperate fully with law enforcement agencies.
-				</li>
-				<li>
-					<strong>Entire Agreement.</strong>
-					<br>This Agreement, including documents incorporated herein by reference, supersedes all prior discussions, negotiations and agreements between the parties with respect to the subject matter hereof, and this Agreement constitutes the sole and entire agreement between the parties with respect to the matters covered hereby.
-				</li>
-				<li>
-					<strong>Headings.</strong>
-					<br>The headings herein are for convenience only and are not part of this Agreement.
-				</li>
-				<li>
-					<strong>Changes to the Agreement or the Services</strong>
-					<ol class="alpha">
-						<li>HostGator may modify, add, or delete portions of this Agreement at any time. If we have made significant changes to this Agreement, we will post a notice on the HostGator website for at least thirty (30) days after the changes are posted and will indicate at the bottom of this Agreement the date of the last revision.  Any revisions to this Agreement will become effective when posted unless otherwise provided. You agree to any modification to this Agreement by continuing to use the Services after the effective date of any such modification.</li>
-						<li>HostGator reserves the right to modify, change, or discontinue any aspect of the Services at any time.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Severability</strong>
-					<br>If any provision or portion of any provision of this Agreement is found to be illegal, invalid or unenforceable by a court of competent jurisdiction, the remaining provisions or portions (unless otherwise specified) thereof shall remain in full force and effect.
-				</li>
-				<li>
-					<strong>Waiver</strong>
-					<br>No failure or delay by you or HostGator to exercise any right or remedy hereunder shall operate as a waiver thereof, nor shall any single or partial exercise of any right or remedy preclude any other or further exercise of any right or remedy. No express waiver of, or assent  to, any breach of or default in any term or condition of this Agreement by any party hereto shall constitute a waiver of, or an assent to, any succeeding breach of or default in the same or any other term or condition hereof.
-				</li>
-				<li>
-					<strong>Assignment; Successors</strong>
-					<br>You may not assign or transfer this Agreement or any of your rights or obligations hereunder, without the prior written consent of HostGator. Any attempted assignment in violation of this Agreement shall be null and void and of no force or effect whatsoever. HostGator may assign our rights and obligations under this Agreement, and may engage subcontractors or agents in performing our duties and exercising our rights hereunder, without the consent of User. This Agreement shall be binding upon and shall inure to the benefit of the parties hereto and their respective successors and permitted assigns.
-				</li>
-				<li>
-					<strong>Force Majeure</strong>
-					<br>Neither party is liable for any default or delay in the performance of any of its obligations under this Agreement (other than failure to make payments when due) if such default or delay is caused, directly or indirectly, by forces beyond such party&apos;s reasonable control, including, without limitation, fire, flood, acts of God, labor disputes, accidents, acts of war or terrorism, interruptions of transportation or communications, supply shortages or the failure of any third party to perform any commitment relative to the production or delivery of any equipment or material required for such party to perform its obligations hereunder.
-				</li>	
-				<li>
-					<strong>Third-Party Beneficiaries</strong>
-					<br>Except as otherwise expressly provided in this Agreement, nothing in this Agreement is intended, nor shall anything herein be construed to confer any rights in any person other than the parties hereto and their respective successors and permitted assigns. Notwithstanding the foregoing, user acknowledges and agrees that any supplier of a third-party product or service that is identified as a third-party beneficiary in the service description, is an intended third-party beneficiary of the provisions set forth in this Agreement as they relate specifically to its products or services and shall have the right to enforce directly the terms and conditions of this Agreement with respect to its products or services against user as if it were a party to this Agreement.
-				</li>
-			</ol>
-			<p><strong>Virtual Private Server TOS addendum </strong><a href="/tos/vps-tos" title="Virtual Private Server TOS addendum">Click here</a></p>
-			<p><strong>Domain Registration Agreement </strong><a href="/tos/domain-registration-agreement" title="Domain Registration Agreement">Click here</a></p>
-		</div>
-	
+          <p>YouTube allows you to access certain premium features or content in exchange for a one-time or recurring fee, as applicable to the relevant features or content (collectively, each a &#x201C;Paid Service&#x201D; and collectively the &quot;Paid Services&quot;). The Paid Services include YouTube rentals &amp; purchases, paid channel subscriptions, feature-based subscriptions and other YouTube services which may be offered by YouTube in the future. Your transactions and any other use of the Paid Services are subject to these YouTube Paid Service Terms of Service (&quot;Paid Service Terms&quot;).</p>
+
+          <h2>1. Your Acceptance</h2>
+
+          <p>By using a Paid Service, you signify your agreement to (1) these Paid Service Terms; and (2) <a href="/t/terms?gl=US&amp;hl=en">YouTube&apos;s Terms of Service</a>, <a href="https://www.google.com/intl/en/policies/privacy/">Privacy Notice</a>, and <a href="/t/community_guidelines">Community Guidelines</a> applicable to your geographic location, and all other terms and conditions that generally apply to the YouTube website. &#xA0;Nexus Tablet Users are subject to the following <a href="/t/terms_nexus_tablet">additional terms</a>. We&#x2019;ll refer to these documents together as the &#x201C;Terms&#x201D;. Please read the Terms carefully. If you do not understand the Terms, or do not accept any part of them, then you may not use the Paid Services.</p>
+
+          <p>Each time you place an order for a Paid Service (including when you order individual subscriptions or items of content), you enter into a separate contract for services on these Terms. When you complete a purchase, you signify that you wish to enter into a binding contract for the provision of the applicable Paid Services.</p>
+
+          <h2>2. Payment, Refund and Cancellation Policy</h2>
+
+          <p><strong>Payment:</strong> YouTube accepts payment via the current payment method indicated prior to purchase, which may include Google Wallet and any other form of payment that we make available to you from time to time. You must have a valid accepted form of payment on file in order to purchase Paid Services or participate in free trial offers or other free offers related to the Paid Services. You agree to abide by any relevant Terms of Service or other legal agreement (including without limitation the <a href="https://wallet.google.com/legaldocument?family=0.buyertos">Google Wallet Terms of Service</a>), whether with YouTube, Google or a third party, that governs your use of a given payment processing method. Prices for any Paid Service may change at any time, and YouTube does not provide price protection or refunds in the event of a price reduction or promotional offering. You agree to pay for any Paid Service that you order. YouTube will charge your credit card or other form of payment for the price listed on the relevant Paid Service offer, along with any additional amounts relating to applicable taxes, bank fees and currency fluctuations. If you purchase any automatically renewing subscriptions, you agree that YouTube will charge the payment method on file on the first day of each billing period for the relevant subscription, and if the payment method on file becomes invalid due to an expired credit card or other similar reason and we are unable to charge you on the next billing period, YouTube reserves the right to immediately revoke your access to any Paid Service you have ordered until you update your payment method. If you fail to update your payment method within a reasonable amount of time, YouTube may cancel your subscription.</p>
+
+          <p><strong>Taxes:</strong> If YouTube is required to collect or pay any taxes in connection with your purchase of a Paid Service, such taxes will be charged to you at the time of each purchase transaction. Additionally, if required by law, you are responsible for reporting and paying certain taxes in connection with your purchase and use of a Paid Service. Such taxes may include duties, customs fees, or other taxes (other than income tax), along with any related penalties or interest, as applicable to your purchase or country of purchase.</p>
+
+          <p><strong>Refunds:</strong> You can cancel your purchase and receive a refund as long as you have not commenced using the relevant Paid Service ordered and you make your request no later than 7 working days after your order is completed. Please note that if your order includes a free trial (as described below), the 7 day period for requesting a refund begins at the beginning of the free trial, not when you are subsequently billed for the Paid Service. &#xA0;Requests for refunds must be directed to our customer support team by clicking &#x201C;Help&#x201D; next to the relevant purchase on your <a href="/purchases">Purchases page</a> or by contacting the customer support team <a href="http://support.google.com/youtube/?p=commerce_contact&amp;hl=en">here</a>. We reserve the right to approve or deny refund requests after 7 working days at our sole discretion, except where the Paid Service is defective. In the event a refund is issued after 7 days for any subscription Paid Service, you may be issued a partial refund that is pro-rated for the remaining time left on the subscription. If you receive a refund for any reason, YouTube reserves the right to terminate your access to the relevant Paid Service purchased.</p>
+
+          <p><strong>Subscription Cancellations:</strong> If you purchase a subscription to a Paid Service that automatically renews, you may cancel the subscription any time before the end of the current billing period and the cancellation will take effect on the next billing period. You will retain access to the Paid Service from the time you cancel until the start of the next billing period, and will not receive a refund or credit for any remaining days in your current billing period.</p>
+
+          <p><strong>Free Trials:</strong> YouTube may offer free trials to new Paid Service subscribers. If you purchase a subscription to a Paid Service that includes a free trial, you will receive free access to such Paid Service for the duration of the free trial period. At the end of the applicable free trial period, you will be charged the price of the subscription and will continue to be charged until you cancel your subscription. To avoid any charges, you must cancel before the end of the free trial period.</p>
+
+          <p><strong>Pre-Orders:</strong> YouTube may offer the ability to pre-order certain items of content available within the Paid Services. When you place a pre-order for an item of content, unless otherwise noted at the time of purchase, your transaction will be completed and your credit card will be charged on the date when the relevant item of content is made available to you. You can cancel your pre-order at any time up to the point at which the relevant item of content becomes available. In some cases, YouTube may need to cancel a pre-order you have placed, in which case we will notify you.</p>
+
+          <h2>3. Accessing Paid Services.</h2>
+
+          <p><strong>Device and Usage Requirements.</strong> Certain types of Paid Services may require you to use a device that meets the system and compatibility requirements for such Paid Service, which may change from time to time. For further information on supported devices and technical requirements, visit our <a href="http://support.google.com/youtube/?p=commerce_topic&amp;hl=en">Help Center</a>.</p>
+
+          <p>Additionally, your use of the Paid Services is subject to the <a href="/t/usage_paycontent">YouTube Paid Service Usage Rules</a>, which describe how you may access or use the different types of Paid Services on YouTube (e.g., applicable viewing periods and device limitations).</p>
+
+          <p><strong>Geographic Restrictions.</strong> The Paid Services, and certain content available within the Paid Services, are currently available only in some countries. You agree that you will not present any false, inaccurate or misleading information in an effort to misrepresent yourself as a resident of a supported country, and you will not attempt to circumvent any restrictions on access to or availability of the Paid Services or content available within the Paid Services.</p>
+
+          <p><strong>Other Google Paid Services.</strong> You may receive access to other Google subscription products or purchases as part of a transaction for certain YouTube Paid Services (e.g., by purchasing a movie on YouTube). &#xA0;Additionally, you may receive access to certain YouTube Paid Services as part of a purchase of, or subscription to, other Google products (e.g., by purchasing a movie on Google Play). &#xA0;Your use of any YouTube Paid Service is governed solely by these Paid Service Terms, and not the terms of any other Google product, including any other Google product through which you receive access to a YouTube Paid Service.</p>
+
+          <h2>4. License</h2>
+
+          <p>Your use of the Paid Services must be only for personal, non-commercial use. You agree not to use any Paid Service, in whole or in part in connection with any public presentation even if no fee is charged (except where such use would not constitute a copyright infringement). You are receiving a non-exclusive license to access the Paid Service and all rights, title and interest in the Paid Services (including any content offered through the Paid Services) not expressly granted to you in these Terms are reserved by YouTube and its licensors. If YouTube reasonably determines that you violated any of the terms and conditions of the Paid Service Terms, your rights under this Section 4 will immediately terminate and YouTube may terminate your access to the Paid Service and/or your YouTube account without notice and without refund to you.</p>
+
+          <h2>5. Restrictions</h2>
+
+          <p>When you use the Paid Service, you may not (or attempt to):</p>
+
+          <ul class="square">
+            <li>use the Paid Service in an illegal manner or for an illegal purpose;</li>
+            <li>share your YouTube account password with someone else to allow them to access any Paid Service that such person did not order;</li>
+            <li>copy, sell, rent, or sublicense the Paid Services to any third party;</li>
+            <li>circumvent, reverse-engineer, modify, disable, or otherwise tamper with any security technology that YouTube uses to protect the Paid Service or encourage or help anyone else to do so;</li>
+            <li>access the Paid Service other than by means authorized by YouTube; or</li>
+            <li>remove any proprietary notices or labels on Paid Services.</li>
+          </ul>
+
+          <h2>6. Changes</h2>
+
+          <p><strong>Changes or Discontinuation of Paid Services.</strong> YouTube reserves the right to change the availability of Paid Services. In addition, we reserve the right to modify, suspend, or discontinue any Paid Service with or without notice to you and we will not be liable to you or any third party for any such modifications, suspension, or termination. However, this will not affect your ability to request a refund as described above.</p>
+
+          <p><strong>Removal or Unavailability of Content.</strong> In certain cases, content available within a Paid Service may become unavailable due to restrictions from our partners who license us such content or other legal or policy reasons. YouTube will have no liability to you for any such unavailability. In the case of video rentals and purchases, if this happens during your rental period or during the first five years after you purchase content, you may request either a refund of the price paid or a reasonable replacement for such otherwise unavailable rental or purchased content. For all other Paid Services, if you are not able to download a copy of the affected content (if applicable) before it becomes unavailable, then YouTube may, at its option and solely as an accommodation to you, offer you either (a) a reasonable replacement of the content if possible or (b) a refund of the price of the content. If YouTube chooses to issue you a refund or replacement, the refund or replacement of your purchase price shall be your sole remedy.</p>
+
+          <p><strong>Changes to the Paid Service Terms.</strong> We may also change these Paid Service Terms from time to time so we encourage you to periodically review the most up-to-date version at <a href="/t/terms_paycontent">http://www.youtube.com/terms_paycontent</a>. If the Paid Service Terms change, you will have the opportunity to review the new terms when you next purchase any Paid Service. By completing the purchase, you signify your agreement to the new Paid Service Terms, and further, that they will apply to your use of the Service as a whole (including any Paid Service you have purchased in the past) and all subsequent purchases (until the Paid Service Terms change again). If you refuse to accept the updated Paid Service Terms then you may not buy any additional Paid Services and the latest version of the Paid Service Terms that you accepted will continue to apply to your use of previously purchased Paid Services.</p>
+
+          <h2>7. Other Terms</h2>
+
+          <ol class="upper-alpha">
+            <li>You acknowledge and agree that certain content available in the Paid Services may be considered offensive to some people and that such content may not be labeled as such. Additionally, certain descriptions of Paid Services or content available in the Paid Services are not guaranteed to be accurate. You agree to use the Paid Services at your own risk and, subject to applicable laws, YouTube will have no liability to you for any content that you find offensive.</li>
+            <li>
+              The Paid Services are being provided by Google Inc., reachable via mail at:
+              <address class="vcard">
+                <span class="fn">Google Inc.</span><br>
+                <strong>Attn:</strong> YouTube Paid Services<br>
+                <div class="adr">
+                  <span class="street-address">1600 Amphitheatre Parkway</span><br>
+                  <span class="locality">Mountain View, CA 94043</span>
+                </div>
+              </address>
+              or
+              <p>via email online <a href="//support.google.com/youtube/bin/request.py?contact_type=contact_policy&amp;policy=yt_movies&amp;hl=en">form</a></p>
+              <p>Complaints and/or feedback about your Paid Service experience may be sent to the address above or provided online as described above. You may also contact our customer support team by clicking &#x201C;Help&#x201D; next to the relevant purchase on your <a href="/purchases">Purchases page</a> or by <a href="http://support.google.com/youtube/?p=commerce_contact&amp;hl=en">contacting the team</a>.</p>
+            </li>
+            <li>You agree that you are solely responsible for (and that YouTube has no responsibility to you for) your use of any Paid Service, any breach of your obligations under the Paid Service Terms, and for the consequences (including loss or damage of any kind which YouTube may suffer) of any such breach.</li>
+            <li>You acknowledge and agree that you are responsible for paying all fees in a timely manner and for providing us with a valid credit card or other form of payment acceptable to YouTube. IN ADDITION, YOU ACKNOWLEDGE THAT YOUR ONLINE ACCEPTANCES CONSTITUTE A BINDING AGREEMENT BETWEEN YOU AND YOUTUBE AND SIGNIFY YOUR INTENT TO BE BOUND TO SUCH ONLINE ACCEPTANCES.</li>
+            <li>SUBJECT TO APPLICABLE LAWS, IN NO EVENT WILL YOUTUBE OR ITS AFFILIATES&apos; AGGREGATE LIABILITY FOR ANY AND ALL CAUSES OF ACTION BROUGHT BY YOU OR YOUR AGENTS ARISING FROM OR RELATED TO THE SERVICES EXCEED THE PAYMENTS ACTUALLY RECEIVED AND RETAINED BY YOUTUBE FROM YOU FOR THE PAID SERVICES.</li>
+            <li>Unless not permitted by applicable law, you acknowledge and agree that that these Paid Service Terms, your transaction for the Paid Service, and your relationship with YouTube under these Paid Service Terms shall be governed by the laws of the State of California, U.S.A., without respect to its conflict of laws principles, and any claim or dispute that arises in whole or in part from your use of the YouTube Website and the Paid Services will be decided exclusively by a court of competent jurisdiction located in Santa Clara County, California, U.S.A.</li>
+            <li>You acknowledge and agree that your transaction for the Paid Service is with Google Inc.</li>
+          </ol>
+        </div>
+      

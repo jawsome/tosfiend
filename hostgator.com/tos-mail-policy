@@ -24,4 +24,64 @@
 			<p>5. Any mailling list MUST comply with all guidelines set forth by the United States government. These can be found at: 
 				<br><a href="http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm">http://www.ftc.gov/bcp/edu/pubs/business/ecommerce/bus61.shtm</a> .</p><p>6. No direct SMTP mailers are allowed. An example of this would be a Darkmailer or The Bat!. Any mail should be sent through the local mail server/MTA for further delivery by the server and not done directly by scripts.</p>
 	</div>
+	ve the right to refuse service to anyone. Any material that, in our judgment, is obscene, threatening, illegal, or violates our Terms of Service or this AUP in any manner may be removed from our servers (or otherwise disabled), with or without notice.
+						</li>
+					</ol>
+				</li>
+				<li>
+					<strong>Unacceptable Resource Usage.</strong>
+					<ol class="lower-alpha">
+						<li>
+							You may not:
+							<ol class="lower-roman">
+								<li>Use twenty-five percent (25%) or more of our system resources for longer than ninety (90) seconds at a time. Activities that could cause this excessive use, include but are not limited to: CGI scripts, FTP, PHP, HTTP, etc.</li>
+								<li>Run stand-alone, unattended server-side processes at any point in time on the server. This includes any and all daemons, such as IRCD.</li>
+								<li>Run any type of web spider or indexer (including Google Cash / AdSpy) on shared servers.</li>
+								<li>Run any software that interfaces with an IRC (Internet Relay Chat) network.</li>
+								<li>Run any bit torrent application, tracker, or client. You may link to legal torrents off-site, but may not host or store them on our shared servers.</li>
+								<li>Participate in any file-sharing/peer-to-peer activities</li>
+								<li>Run any gaming servers such as counter-strike, half-life, battlefield1942, etc.</li>
+								<li>Run cron entries with intervals of less than fifteen (15) minutes.</li>
+								<li>Run any MySQL queries longer than fifteen (15) seconds. MySQL tables should be indexed appropriately.</li>
+								<li>Include the local file rather than the URL when using PHP, include functions for including a local file. Instead of including &quot;http://yourdomain.com/include.php&quot;), use &quot;include.php&quot;.</li>
+								<li>Force html to handle server-side code (like php and shtml) to help reduce usage.</li>
+								<li>Use https protocol unless it is necessary; encrypting and decrypting communications is noticeably more CPU-intensive than unencrypted communications.</li>
+							</ol>
+						</li>
+						<li>
+							<strong>INODES.</strong>
+							<br>The use of more than two hundred and fifty thousand (250,000) inodes on any shared or reseller account may result in a warning, and if no action is taken to reduce the excessive use of inodes, your account may be suspended.  If an account exceeds one hundred thousand (100,000) inodes it will be automatically removed from our backup system to avoid over-usage, however, databases will still be backed up as a courtesy in our sole discretion. Every file (i.e. a webpage, image file, email, etc.) on your account uses up one (1) inode.
+							<hr>User accounts that constantly create and delete large numbers of files on a regular basis, have hundreds of thousands of files, or cause file system damage may be flagged for review and/or suspension. The primary cause of excessive inodes is typically due to Users leaving their catchall address enabled, but never checking their primary account mailbox. Over time, tens of thousands of messages (or more) build up, eventually pushing the account past an acceptable amount of inodes. To disable your default mailbox, login to cPanel and choose &quot;Mail&quot;, then &quot;Default Address&quot;, &quot;Set Default Address&quot;, and then type in: &#x201C;:fail: No such user here&#x201D;.
+						</li>
+					</ol>
+				</li>
+				<li>
+					<strong>Zero Tolerance Spam Policy</strong>
+					<ol class="lower-alpha">
+						<li>We take a zero tolerance stance against the sending of unsolicited e-mail, bulk emailing, and spam. &quot;Safe lists,&quot; purchased lists, and selling of lists will be treated as spam. We may terminate the account of any User who sends out spam with or without notice. Please read&#xA0;<a href="/mailpolicy" title="Mail Policy">http://www.hostgator.com/mailpolicy.html</a>&#xA0;for our generalized mail policy. Please read&#xA0;<a href="/dedicated-mailpolicy" title="Dedicated Mail Policy">http://www.hostgator.com/dedicated-mailpolicy.html</a>&#xA0;for our dedicated server mail policy.</li>
+						<li>Websites advertised via spam (Spamvertised) may not be hosted on our servers. This provision includes, but is not limited to, spam sent via fax, phone, postal mail, email, instant messaging, or usenet/newsgroups. No organization or entity listed in the&#xA0;<a href="http://www.spamhaus.org/rokso/" title="Register of Known Spam Operations" target="_blank">ROKSO</a>&#xA0;may be hosted on our servers. Any User account which results in our IP space being blacklisted will be immediately suspended and/or terminated.</li>
+						<li>HostGator reserves the right to require changes or disable as necessary, any website, account, database, or other component that does not comply with our policies, or to make any such modifications in an emergency that we deem necessary at our sole discretion.</li>
+						<li>HostGator reserves the right to charge the holder of the account used to send any unsolicited e-mail a cleanup fee or any charges incurred for blacklist removal at our sole discretion.</li>
+					</ol>
+				</li>
+				<li>
+					<strong>Defamation Policy.</strong>
+					<br>Websites hosted on HostGator&#x2019;s servers in the U.S. are regulated by U.S. law. Accordingly, pursuant to Section 230(c) of the Communications Decency Act, HostGator&#x2019;s policy is not to remove allegedly defamatory material from websites hosted on our servers unless the material has been found to be defamatory by a court, as evidenced by a court order. As a webhost, HostGator is not a publisher of User content and we are not in a position to investigate the veracity of individual defamation claims.  We rely on the legal system and the courts to determine whether or not material is indeed defamatory. In any case in which a court order indicates that material is defamatory, libelous, or slanderous in nature, we will disable access to the material. Similarly, in any case in which a U.S. court has placed an injunction against specified content or material being made available, we will comply and remove or disable access to the material in question.
+				</li>
+				<li>
+					<strong>AUP Violations.</strong>
+					<ol class="lower-alpha">
+						<li>
+							<strong>Resellers.</strong>
+							<br>If there is a violation of this AUP by one of a reseller&#x2019;s client&#x2019;s account, HostGator will suspend the website in question and will notify the reseller so that the reseller can terminate the account. HostGator may, but is not obligated to, monitor the account or website for any subsequent violations. The occurrence of additional violations may result in the immediate termination of your reseller account.
+						</li>
+						<li>
+							<strong>Direct customers.</strong>
+							<br>Your Services may be terminated with or without notice upon any violation of this AUP.  If applicable, violations will be reported to the appropriate law enforcement agency.</li>
+						<li>A failure to respond to an email from our abuse department within forty-eight (48) hours, or as otherwise specified in the email, may result in the suspension or termination of your Services. All abuse issues must be dealt with via trouble ticket/email and will receive a response within forty-eight (48) hours.</li>
+						<li>If you feel you have discovered a violation of our AUP please report it to: <a href="mailto: abuse@hostgator.com">abuse@hostgator.com</a>.</li>
+					</ol>
+				</li>
+			</ol>
+		</div>
 	

@@ -1,29 +1,61 @@
-## Mail Policy
+## VPS Terms of Service
 
-**Limits**
+The use of services from HostGator.com, LLC \[hereafter referred to as "HostGator"\] constitutes agreement to these terms. You may view our [Privacy Policy here][0].
+
+**1.) Cancellations and Refunds**
   
-There is a 500 outgoing email hourly limit per domain. This limit is also applied towards Mailman. If you send over this amount in any hour, most of the e-mails will bounce back with an undeliverable error. If this occurs, it will then take some time for your account to be able to send again so we recommend waiting at least 1 hour after this issue occurs to begin sending email again.
+Any abuse of our staff in any medium or format will result in the suspension or termination of your services.
 
-Many of our servers have a limit of 30 POP3/IMAP checks per hour per each user's connecting IP address. If you go over this you're likely to get a wrong password error message or an error stating "login incorrect". If this occurs, please wait an hour and it will automatically unblock you. To prevent this from happening again, please make sure to disable auto checking or at least set it to something higher such as once every 10 minutes.
+Customers may cancel at any time via a [cancellation form][1]. HostGator gives you an unconditional 45 day money back guarantee on Virtual Private Servers for any customer who paid the first invoice with a credit card or with Paypal.
 
-Any mailing list larger than 5,000 addresses will require a dedicated server or VPS hosting solution from us. Note: Dividing one large list into smaller lists to get below this limit is not allowed.
+Only first-time accounts are eligible for a refund. For example, if you've had an account with us before, canceled and signed up again, you will not be eligible for a refund or if you have opened a second account with us.
 
-There is also a limit to the number of Mailman mailing lists permitted as follows (NOTE: This does not apply to other mailing list programs such as PHPList. This only applies to Mailman.)
+The following methods of payments are non-refundable, and refunds will be posted as credit to the hosting account:
 
-* Hatchling package: 20 Mailman mailing lists
-* Baby package: 25 Mailman mailing lists
-* Business package: 50 Mailman mailing lists
-* Reseller and Dedicated packages: Unlimited number of Mailman mailing lists
+* Bank Wire Transfers
+* Western Union Payments
+* Checks
+* Money orders
 
-**Mailing Lists Rules**
+**2.) Resource Usage Limits**
   
-1\. Any time you're sending a message no matter how large your e-mail list is you must throttle it. We recommend you throttle it to at the very least sending 1 email every 8 seconds. (Sending 1 every 8 seconds would send 450 emails within 1 hour, keeping you below the 500 outgoing email limit.) If the mailing list software you're using does not allow you to throttle you must switch to an application or script that will. We recommend PHPList, which can be found in your CPanel, under Quickinstall.
+VPS accounts may not:
+  
+a) exceed a 15 minute load average greater than two (2) times the amount of CPU cores given.
+  
+b) run public IRCd's or malicious bots.
+  
+c) run any type of BitTorrent client or tracker that links to or downloads illegal content.
+  
+d) use an Open/Public proxy, or utilize a proxy to access illegal/malicious content.
+  
+e) use I/O intensive applications which adversely affect normal server operations.
+  
 
-IMPORTANT: If you do not throttle and you try sending 500 emails, the server will try sending all 500 in 1 second which is not possible on our shared servers. This will cause a very high load on the server and the entire server will be sluggish, potentially affecting your sites and service, until this sending process is completed. It is our job to keep the server up and running without being sluggish or experiencing issues. Anyone who causes the server's load to go high will be suspended and the process will be terminated. If you choose not to throttle, you will most likely be suspended for crashing the server.
+**3.) Inodes**
+  
+VPS accounts come with a default inode limit of 1,000,000 to better protect the file system. The limit can be increased if there is a legitimate reason to have it increased. To make a request, please email our support team.
 
-2\. Any mailing list over 900 email addresses is only allowed to be sent to during off-peak times to prevent high server loads. Off peak times qualify as all day Saturday and Sunday, and 1AM - 8AM Eastern Standard Time, Monday through Friday.
+**4.) Mail Policy**
+  
+VPS accounts will be governed by our dedicated server mail policy, which is available at [Dedicated server mail policy][2].
 
-3\. The list must be a Double Opt-In list. This means a user has subscribed for a newsletter or other email marketing messages by explicitly requesting it and confirming the email address to be their own. Confirmation is usually done by responding to a notification/confirmation email sent to the email address the end user specified. The double opt-in method eliminates the chance of abuse where somebody submits someone else's email address without their knowledge and against their will. You will not be permitted to mail any mailing list that you were given or purchased. In doing so, this will also be considered spamming and may result in termination of the offending account.
+**5.) Backup and Data Loss**
+  
+Your use of this service is at your sole risk. Our backup service is provided to you as a courtesy. HostGator is not responsible for files and/or data residing on your account. You agree to take full responsibility for files and data transferred and to maintain all appropriate backup of files and data stored on HostGator servers. Backups will not be provided for accounts that have been suspended or terminated for any reason unless otherwise agreed to in writing by HostGator.
+
+**6) Uptime Guarantee**
+  
+Approval of any credit is at the discretion of HostGator dependent upon justification provided. Third party monitoring service reports may not be used for justification due to a variety of factors including the monitor's network capacity/transit availability. The uptime of the server is defined as the reported uptime from the operating system and the Apache Web Server which may differ from the uptime reported by other individual services. To request a credit, please visit [http://support.hostgator.com][3] to create a support ticket to our Billing department with proper justification. The 99.9% up time guarantee only applies to shared/reseller solutions. Dedicated and VPS servers are covered by a network guarantee in which the credit is prorated for the amount of time the server is down, which is not related to our uptime guarantee.
+  
+[Back to TOS][4]
+
+
+[0]: ../privacy
+[1]: https://secure.hostgator.com/cancel.php
+[2]: http://www.hostgator.com/dedicated-mailpolicy.html
+[3]: http://support.hostgator.com
+[4]: http://www.hostgator.com/tosg so, this will also be considered spamming and may result in termination of the offending account.
 
 Email Scripts must be able to handle and document all information from a double opt-in list. This includes recording the sign-up IP address and date/time, double opt-in verification IP address and date/time, processing opt-outs (via web or email), and list removal on bounce backs. All opt-outs or bounce back removals must be handled in a timely manner, and outbound mail must be throttled on shared packages to a maximum of five hundred (500) emails per hour. If your account is found to be using a script that does not meet these requirements, HostGator reserves the right to suspend, terminate, or deactivate your script or account.
 

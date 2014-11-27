@@ -1,0 +1,21 @@
+# YouTube Paid Service Usage Rules
+
+As described in the [YouTube Paid Service Terms of Service][0], how you access or use different types of Paid Services on YouTube may vary. The usage rules applicable to each type of Paid Service are detailed below, and may change over time as we add new features, devices and content to our service. You may also visit the YouTube Help Center for more information.
+
+## Video Rentals and Purchases
+
+Certain types of Paid Services allow you to purchase or rent individual items of content made available by third parties.  You may view rentals or purchases when (1) online, with a broadband connection and logged onto your YouTube or Google account or (2) offline by downloading and viewing from a previously authorized device. Authorizing and de-authorizing a device requires you to be online.  For further information on how to view rentals or purchases offline on authorized devices please see [here][1]. Due to restrictions from our content providers, purchased or rented content may not be available for purchase or playback outside of the territory where you completed your transaction. You may also receive access to your rentals and purchases through another Google product (e.g. Google Play), but your use of your rentals and purchases from YouTube shall be governed by the YouTube usage rules.
+
+**Rental Content:** When you rent content, you may view such item of content an unlimited number of times during the period of time displayed at the time of your payment ("Viewing Period") and noted in your confirmation email. Pausing, stopping, or rewinding an item of rented content will not extend your applicable Viewing Period. Each item of rented content may have a different Viewing Period, so please review the Viewing Period before you complete your transaction. Rented content may only be viewed or downloaded on only one device at a time.
+
+**Purchased Content.** When you purchase an item of content, your content will be stored in a digital locker and you may view it an unlimited number of times for during your Locker Period. The "Locker Period" will be for at least 5 years from the date of your purchase (subject to the restrictions described in the [YouTube Paid Service Terms of Service][0]). Each item of purchased content may have a different Locker Period and you agree to the Locker Period before you order it. Pausing, stopping, or rewinding purchased content will not extend the Locker Period.  As noted in the [YouTube Paid Service Terms of Service][0], if an item of purchased content becomes unavailable during the five year period from the purchase date, you may request a refund.
+
+For purchased content, you may (1) view one stream of each item at a time, (2) view up to 3 streams of different items at a time, (3) authorize up to 5 devices for offline playback of purchased content at a time and to authorize additional devices, you must de-authorize one of those 5 devices, (4) only authorize the same device twice every 12 months, and (5) only authorize a total of 2 devices for offline playback every 90 days.
+
+## Paid Channel Subscriptions
+
+Certain types of Paid Services allow you to access a YouTube channel or package of channels made available by third parties, each containing a variety of content, in exchange for a one-time or recurring subscription fee.  When you purchase a subscription to a channel or package of channels, you will have access to stream any content currently available within that subscription an unlimited number of times. Our partners may decide to periodically update the content they make available in the subscription, and some items of content may either become unavailable or be made available for free when this happens. You may only view content within a subscription when you are online, with a broadband connection and logged into your YouTube or Google account, but in some cases you may be able to access the content while offline for limited periods of time. Due to restrictions from our content providers, subscription content may not be available for playback outside of the territory where you completed your transaction.
+
+
+[0]: /t/terms_paycontent
+[1]: //support.google.com/youtube/?p=commerce_help&hl=en

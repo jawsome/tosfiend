@@ -1,129 +1,35 @@
 
-		<div class="center_column_theme2">
-			<h1>Acceptable Use Policy</h1>
-			<div class="header-divider"></div>
-			<p>This Acceptable Use Policy (&#x201C;AUP&#x201D;) governs your use of the Services and is incorporated by reference into HostGator&#x2019;s Terms of Service. Unless otherwise stated, defined terms in this AUP have the meanings provided in the Terms of Service. HostGator may modify this AUP at any time without notice.</p>
-			<p>The Services provided by HostGator may only be used for lawful purposes. You agree to comply with all applicable laws, rules and regulations in connection with your use of the Services. HostGator reserves the right to refuse service to anyone. Any material that in our judgment violates this AUP in any manner may be removed from our servers (or otherwise disabled), with or without notice. <strong>Failure to respond to an email from our abuse department within the specified time period in our email to you may result in the suspension or termination of the Services.</strong></p>
-			<ol class="alpha">
-				<li>
-					<strong>Prohibited Uses</strong>
-					<ol class="lower-alpha">
-						<li>
-							<strong>Infringement of Intellectual Property Rights.</strong>
-							<ol class="lower-roman">
-								<li>Use of the Services to infringe upon another party&#x2019;s intellectual property rights is prohibited. This includes, but is not limited to, the unauthorized copying or distribution of movies, music, books, photographs, software/warez, or any other copyrighted work. Selling or offering to sell any counterfeit merchandise will result in the immediate termination of your account. Any account found to be infringing on the intellectual property rights of others will be expeditiously removed or access to the material will be disabled. Any account found to be in repeated violation of this prohibition will be suspended or terminated.</li>
-								<li>If you believe that your intellectual property rights are being infringed upon, please email <a href="mailto: abuse@hostgator.com">abuse@hostgator.com</a>. For copyright infringement claims, HostGator follows the Digital Millennium Copyright Act (&#x201C;DMCA&#x201D;) notice and takedown procedures. A list of the information required to submit a sufficient copyright infringement claim can be found&#xA0;<a href="/copyright" title="Sample Copyright Infringement">here</a>.</li>
-							</ol>
-						</li>
-						<li>
-							<strong>Using a shared account as a backup/storage device.</strong>
-							<br>You may not use a shared hosting account as a backup/storage device with the exception of one cPanel backup of the same account. Please do not take backups of your backups.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Unacceptable Material.</strong>
-					<ol class="lower-alpha">
-						<li>
-							Unacceptable material on our servers include without limitation:
-							<ul>
-								<li>Topsites</li>
-								<li>IRC Scripts/Bots</li>
-								<li>IRCD (irc servers)</li>
-								<li>Proxy Scripts/Anonymizers</li>
-								<li>Image Hosting Scripts (similar to Photobucket or Tinypic)</li>
-								<li>AutoSurf/PTC/PTS/PPC sites</li>
-								<li>IP Scanners</li>
-								<li>Bruteforce Programs/Scripts/Applications</li>
-								<li>Mail Bombers/Spam Scripts</li>
-								<li>Banner-Ad services (commercial banner ad rotation)</li>
-								<li>File Dump/Mirror Scripts (similar to rapidshare)</li>
-								<li>Commercial Audio Streaming (more than one or two streams)</li>
-								<li>Escrow/Bank Debentures</li>
-								<li>High-Yield Interest Programs (HYIP) or Related Sites</li>
-								<li>Investment Sites (FOREX, E-Gold Exchange, Second Life/Linden Exchange, Ponzi, MLM/Pyramid Scheme)</li>
-								<li>Sale of any controlled substance without prior proof of appropriate permit(s)</li>
-								<li>Prime Banks Programs</li>
-								<li>Lottery/Gambling Sites</li>
-								<li>MUDs/RPGs/PBBGs</li>
-								<li>Hacker focused sites/archives/programs</li>
-								<li>Sites promoting illegal activities</li>
-								<li>Forums and/or websites that distribute or link to warez/pirated/illegal content</li>
-								<li>Bank Debentures/Bank Debenture Trading Programs</li>
-								<li>Fraudulent Sites (Including, but not limited to sites listed at aa419.org &amp; escrow-fraud.com)</li>
-								<li>Mailer Pro</li>
-								<li>Push button mail scripts</li>
-								<li>Broadcast or Streaming of Live Sporting Events (UFC, NASCAR, FIFA, NFL, MLB, NBA, WWE, WWF, etc)</li>
-								<li>Tell A Friend Scripts</li>
-								<li>Anonymous or Bulk SMS Gateways</li>
-								<li>Bitcoin Miners</li>
-								<li>PayDay Loan Sites (including any site related to PayDay loans, PayDay loan affiliate progams, etc)</li>
-							</ul>
-						</li>
-						<li>
-							<strong>Child Pornography Prohibited.</strong>
-							<br>Content that is potentially harmful to minors, as determined in HostGator&#x2019;s sole discretion, is strictly forbidden, including but not limited to, child pornography or content perceived to be child pornography.  Any website found to host child pornography or linking to child pornography will be suspended immediately without notice.
-						</li>
-						<li>
-							<strong>Other Prohibited Content.</strong>
-							<br>We reserve the right to refuse service to anyone. Any material that, in our judgment, is obscene, threatening, illegal, or violates our Terms of Service or this AUP in any manner may be removed from our servers (or otherwise disabled), with or without notice.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Unacceptable Resource Usage.</strong>
-					<ol class="lower-alpha">
-						<li>
-							You may not:
-							<ol class="lower-roman">
-								<li>Use twenty-five percent (25%) or more of our system resources for longer than ninety (90) seconds at a time. Activities that could cause this excessive use, include but are not limited to: CGI scripts, FTP, PHP, HTTP, etc.</li>
-								<li>Run stand-alone, unattended server-side processes at any point in time on the server. This includes any and all daemons, such as IRCD.</li>
-								<li>Run any type of web spider or indexer (including Google Cash / AdSpy) on shared servers.</li>
-								<li>Run any software that interfaces with an IRC (Internet Relay Chat) network.</li>
-								<li>Run any bit torrent application, tracker, or client. You may link to legal torrents off-site, but may not host or store them on our shared servers.</li>
-								<li>Participate in any file-sharing/peer-to-peer activities</li>
-								<li>Run any gaming servers such as counter-strike, half-life, battlefield1942, etc.</li>
-								<li>Run cron entries with intervals of less than fifteen (15) minutes.</li>
-								<li>Run any MySQL queries longer than fifteen (15) seconds. MySQL tables should be indexed appropriately.</li>
-								<li>Include the local file rather than the URL when using PHP, include functions for including a local file. Instead of including &quot;http://yourdomain.com/include.php&quot;), use &quot;include.php&quot;.</li>
-								<li>Force html to handle server-side code (like php and shtml) to help reduce usage.</li>
-								<li>Use https protocol unless it is necessary; encrypting and decrypting communications is noticeably more CPU-intensive than unencrypted communications.</li>
-							</ol>
-						</li>
-						<li>
-							<strong>INODES.</strong>
-							<br>The use of more than two hundred and fifty thousand (250,000) inodes on any shared or reseller account may result in a warning, and if no action is taken to reduce the excessive use of inodes, your account may be suspended.  If an account exceeds one hundred thousand (100,000) inodes it will be automatically removed from our backup system to avoid over-usage, however, databases will still be backed up as a courtesy in our sole discretion. Every file (i.e. a webpage, image file, email, etc.) on your account uses up one (1) inode.
-							<hr>User accounts that constantly create and delete large numbers of files on a regular basis, have hundreds of thousands of files, or cause file system damage may be flagged for review and/or suspension. The primary cause of excessive inodes is typically due to Users leaving their catchall address enabled, but never checking their primary account mailbox. Over time, tens of thousands of messages (or more) build up, eventually pushing the account past an acceptable amount of inodes. To disable your default mailbox, login to cPanel and choose &quot;Mail&quot;, then &quot;Default Address&quot;, &quot;Set Default Address&quot;, and then type in: &#x201C;:fail: No such user here&#x201D;.
-						</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Zero Tolerance Spam Policy</strong>
-					<ol class="lower-alpha">
-						<li>We take a zero tolerance stance against the sending of unsolicited e-mail, bulk emailing, and spam. &quot;Safe lists,&quot; purchased lists, and selling of lists will be treated as spam. We may terminate the account of any User who sends out spam with or without notice. Please read&#xA0;<a href="/mailpolicy" title="Mail Policy">http://www.hostgator.com/mailpolicy.html</a>&#xA0;for our generalized mail policy. Please read&#xA0;<a href="/dedicated-mailpolicy" title="Dedicated Mail Policy">http://www.hostgator.com/dedicated-mailpolicy.html</a>&#xA0;for our dedicated server mail policy.</li>
-						<li>Websites advertised via spam (Spamvertised) may not be hosted on our servers. This provision includes, but is not limited to, spam sent via fax, phone, postal mail, email, instant messaging, or usenet/newsgroups. No organization or entity listed in the&#xA0;<a href="http://www.spamhaus.org/rokso/" title="Register of Known Spam Operations" target="_blank">ROKSO</a>&#xA0;may be hosted on our servers. Any User account which results in our IP space being blacklisted will be immediately suspended and/or terminated.</li>
-						<li>HostGator reserves the right to require changes or disable as necessary, any website, account, database, or other component that does not comply with our policies, or to make any such modifications in an emergency that we deem necessary at our sole discretion.</li>
-						<li>HostGator reserves the right to charge the holder of the account used to send any unsolicited e-mail a cleanup fee or any charges incurred for blacklist removal at our sole discretion.</li>
-					</ol>
-				</li>
-				<li>
-					<strong>Defamation Policy.</strong>
-					<br>Websites hosted on HostGator&#x2019;s servers in the U.S. are regulated by U.S. law. Accordingly, pursuant to Section 230(c) of the Communications Decency Act, HostGator&#x2019;s policy is not to remove allegedly defamatory material from websites hosted on our servers unless the material has been found to be defamatory by a court, as evidenced by a court order. As a webhost, HostGator is not a publisher of User content and we are not in a position to investigate the veracity of individual defamation claims.  We rely on the legal system and the courts to determine whether or not material is indeed defamatory. In any case in which a court order indicates that material is defamatory, libelous, or slanderous in nature, we will disable access to the material. Similarly, in any case in which a U.S. court has placed an injunction against specified content or material being made available, we will comply and remove or disable access to the material in question.
-				</li>
-				<li>
-					<strong>AUP Violations.</strong>
-					<ol class="lower-alpha">
-						<li>
-							<strong>Resellers.</strong>
-							<br>If there is a violation of this AUP by one of a reseller&#x2019;s client&#x2019;s account, HostGator will suspend the website in question and will notify the reseller so that the reseller can terminate the account. HostGator may, but is not obligated to, monitor the account or website for any subsequent violations. The occurrence of additional violations may result in the immediate termination of your reseller account.
-						</li>
-						<li>
-							<strong>Direct customers.</strong>
-							<br>Your Services may be terminated with or without notice upon any violation of this AUP.  If applicable, violations will be reported to the appropriate law enforcement agency.</li>
-						<li>A failure to respond to an email from our abuse department within forty-eight (48) hours, or as otherwise specified in the email, may result in the suspension or termination of your Services. All abuse issues must be dealt with via trouble ticket/email and will receive a response within forty-eight (48) hours.</li>
-						<li>If you feel you have discovered a violation of our AUP please report it to: <a href="mailto: abuse@hostgator.com">abuse@hostgator.com</a>.</li>
-					</ol>
-				</li>
-			</ol>
-		</div>
-	
+	<div class="center_column_theme2">
+		<h2 style="font-size:32px;color:#336293;margin-left:5px;">VPS Terms of Service</h2>
+		<div class="header-divider"></div>
+		<p>The use of services from HostGator.com, LLC [hereafter referred to as &quot;HostGator&quot;] constitutes agreement to these terms. You may view our <a href="../privacy">Privacy Policy here</a>.</p>
+		<p><strong>1.) Cancellations and Refunds</strong>
+		<br> Any abuse of our staff in any medium or format will result in the suspension or termination of your services.</p>
+		<p>Customers may cancel at any time via a <a href="https://secure.hostgator.com/cancel.php">cancellation form</a>. HostGator gives you an unconditional 45 day money back guarantee on Virtual Private Servers for any customer who paid the first invoice with a credit card or with Paypal.</p>
+		<p> Only first-time accounts are eligible for a refund. For example, if you&apos;ve had an account with us before, canceled and signed up again, you will not be eligible for a refund or if you have opened a second account with us.</p>
+		<p>The following methods of payments are non-refundable, and refunds will be posted as credit to the hosting account:
+		<ul>
+			<li>Bank Wire Transfers</li>
+			<li>Western Union Payments</li>
+			<li>Checks</li>
+			<li>Money orders</li>
+		</ul>
+		</p><p><strong>2.) Resource Usage Limits</strong>
+		<br> VPS accounts may not:
+		<br> a) exceed a 15 minute load average greater than two (2) times the amount of CPU cores given.
+		<br> b) run public IRCd&apos;s or malicious bots.
+		<br> c) run any type of BitTorrent client or tracker that links to or downloads illegal content.
+		<br> d) use an Open/Public proxy, or utilize a proxy to access illegal/malicious content.
+		<br> e) use I/O intensive applications which adversely affect normal server operations.
+		<br>
+		</p><p><strong>3.) Inodes</strong>
+		<br> VPS accounts come with a default inode limit of 1,000,000 to better protect the file system. The limit can be increased if there is a legitimate reason to have it increased. To make a request, please email our support team.
+		</p>
+		<p><strong>4.) Mail Policy</strong>
+		<br> VPS accounts will be governed by our dedicated server mail policy, which is available at <a href="http://www.hostgator.com/dedicated-mailpolicy.html">Dedicated server mail policy</a>.</p>
+		<p><strong>5.) Backup and Data Loss</strong>
+		<br> Your use of this service is at your sole risk. Our backup service is provided to you as a courtesy. HostGator is not responsible for files and/or data residing on your account. You agree to take full responsibility for files and data transferred and to maintain all appropriate backup of files and data stored on HostGator servers. Backups will not be provided for accounts that have been suspended or terminated for any reason unless otherwise agreed to in writing by HostGator.</p>
+		<p><strong>6) Uptime Guarantee</strong>
+		<br> Approval of any credit is at the discretion of HostGator dependent upon justification provided. Third party monitoring service reports may not be used for justification due to a variety of factors including the monitor&apos;s network capacity/transit availability. The uptime of the server is defined as the reported uptime from the operating system and the Apache Web Server which may differ from the uptime reported by other individual services. To request a credit, please visit <a href="http://support.hostgator.com" target="_blank">http://support.hostgator.com</a> to create a support ticket to our Billing department with proper justification. The 99.9% up time guarantee only applies to shared/reseller solutions. Dedicated and VPS servers are covered by a network guarantee in which the credit is prorated for the amount of time the server is down, which is not related to our uptime guarantee.
+		<br><a href="http://www.hostgator.com/tos">Back to TOS</a>
+	</p></div>

@@ -1,0 +1,25 @@
+{
+  "name": "hostgator.com",
+  "sources": {
+    "tos": {
+      "url": "http://www.hostgator.com/tos",
+      "element": "div.mainarea"
+    },
+    "tos-vps": {
+      "url": "http://www.hostgator.com/tos/vps-tos",
+      "element": "div.mainarea"
+    },
+    "tos-acceptable-use": {
+      "url": "http://www.hostgator.com/tos/acceptable-use-policy",
+      "element": "div.mainarea"
+    },
+    "tos-mail-policy": {
+      "url": "http://www.hostgator.com/mailpolicy",
+      "element": "div.mainarea"
+    },
+    "tos-dedicated-mail-policy": {
+      "url": "http://www.hostgator.com/dedicated-mailpolicy",
+      "element": "div.mainarea"
+    }
+  }
+}
